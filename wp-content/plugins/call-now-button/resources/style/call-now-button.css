@@ -1,0 +1,316 @@
+/*
+Universal CNB admin styling options
+*/
+
+.cnb_align_center {
+	text-align: center;
+}
+.cnb_align_right {
+	text-align: right;
+}
+.cnb_align_left {
+	text-align: left;
+}
+
+.cnb_font_normal {
+	font-weight: normal;
+}
+.cnb_font_bold {
+	font-weight: 700;
+}
+.cnb_font_thin {
+	font-weight: 100;
+}
+
+.cnb_font_80 {
+	font-size: 80%;
+}
+.cnb_font_90 {
+	font-size: 90%;
+}
+.cnb_font_100 {
+	font-size: 100%;
+}
+.cnb_font_110 {
+	font-size: 110%;
+}
+.cnb_font_120 {
+	font-size: 120%;
+}
+
+.cnb_padding_0 {
+	padding: 0 !important;
+}
+.cnb_cursor_pointer {
+	cursor: pointer;
+}
+.cnb_cursor_pointer:hover {
+	text-decoration: underline;
+}
+
+.cnb_footer_beta {
+	border: 1px solid;
+    border-radius: 3px;
+    margin-left: 5px;
+    padding: 0 3px;
+}
+
+/*
+Other styling
+*/
+
+.cnb_promobox_item {
+	margin: 5px 10px;
+}
+
+#poststuff .postbox .inside {
+	margin: 0;
+    padding: 0;
+}
+
+.cnb-button-name-field {
+	padding: 20px 10px 20px 0;
+}
+
+#cnb\[name\] {
+	padding: 3px 8px;
+    font-size: 1.7em;
+    line-height: 100%;
+    height: 1.7em;
+    width: 100%;
+    outline: 0;
+    margin: 0 0 3px;
+    background-color: #fff;
+}
+
+#post-body .cnb-side-icon:before {
+    font: normal 20px/1 dashicons;
+    color: #8c8f94;
+    speak: never;
+    display: inline-block;
+    margin-left: -1px;
+    padding-right: 3px;
+    vertical-align: top;
+    -webkit-font-smoothing: antialiased;
+}
+#post-body .cnb-side-checkbox:before {
+    content: "\f147"; /* \f147 = yes (since 4.1), \f12a = yes-alt (since 5.2), \f15e = saved (since 5.5) */
+}
+
+.form-table td p.description,
+.inline-helper,
+label.small-italic {
+    font-size: 12px;
+}
+
+table.form-table,
+.cnb-button-name-field,
+.cnb-button-edit-action-table .tablenav {
+	display:none;
+}
+
+table.form-table.nav-tab-active,
+.notice table.form-table {
+	display: initial;
+}
+.notice > form {
+    margin: .5em 0;
+    padding: 2px;
+}
+
+#TB_window .cnb-button-name-field,
+.cnb-button-name-field.nav-tab-active {
+	display: block;
+}
+
+table.form-table.nav-tab-only {
+	display: table;
+}
+
+.cnb-url a {
+	text-decoration: none;
+	font-weight: 200;
+	font-size: 28px;
+	color: black;
+}
+.cnb-center {
+	text-align: center;
+}
+.cnb-container input[type="radio"] + label {
+    font-weight: 300;
+}
+.cnb-container input[type="radio"]:checked + label,
+.cnb-container input[type="checkbox"]:checked + label {
+    font-weight: bold;
+}
+.cnb-radio-item {
+    margin: 10px 0;
+}
+.cnb-extra-placement {
+	display: none;
+}
+.cnb-extra-placement.cnb-extra-active {
+	display: block;
+}
+.cnb-switch-back {
+	color: #0073aa;
+	text-decoration: underline;
+	cursor: pointer;
+}
+#cnb_slider_value,
+#cnb_order_value {
+	font-weight: normal;
+}
+
+input[type='range'] {
+    position: relative;
+    top: 8px;
+}
+
+@-moz-document url-prefix() {
+	input[type='range'] {
+	    top: 12px;
+	}
+}
+
+.cnb_slider_value {
+	font-weight: normal;
+}
+
+@media screen and (min-width: 960px) {
+	.cnb-radio-item {
+	    margin: 5px 0;
+	}
+}
+.cnb-nounderscore {
+	text-decoration: none;
+}
+
+.cnb_advanced_view {
+	display: none;
+}
+
+@media screen and (max-width: 630px) {
+	.wp-admin #TB_window {
+		width: auto !important;
+		margin-left: auto !important;
+		left: auto !important;
+		margin-left: 10px !important;
+		margin-right: 10px !important;
+	}
+
+	.wp-admin #TB_ajaxContent {
+		width: auto !important;
+	}
+}
+
+#cnb_action_value_input_whatsapp.error {
+	color:red;
+}
+
+#cnb-valid-msg {
+	color: green;
+}
+
+#cnb-error-msg {
+	color: red;
+}
+
+.iti__flag {background-image: url('https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/img/flags.png');}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+	.iti__flag {background-image: url('https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/img/flags@2x.png');}
+}
+
+.MuiSvgIcon-root {
+	-webkit-font-smoothing: antialiased;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+	font-weight: 400;
+	line-height: 1.43;
+	color: rgba(0, 0, 0, 0.87);
+	text-align: center;
+	box-sizing: inherit;
+	fill: currentColor;
+	width: 1em;
+	height: 1em;
+	display: inline-block;
+	font-size: 1.5rem;
+	transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+	flex-shrink: 0;
+	user-select: none;
+	margin-right: 4px;
+}
+.cnb-pricing, .cnb-pricing td {
+	border: 1px solid #000000;
+	text-align: center;
+}
+.cnb-pricing td {
+	padding: 10px;
+}
+
+.cnb-version {
+	font-weight: 200;
+}
+.cnb_type_selector .cnb_type_selector_item {
+	transition: all 0.5s;
+	opacity: 0.3;
+	filter: grayscale(1);
+	cursor: pointer;
+}
+.cnb_type_selector .cnb_type_selector_active {
+	opacity: 1;
+	filter: grayscale(0);
+}
+.cnb-flexbox {
+	display: flex;
+	justify-content:center;
+}
+.cnb-flexbox > * {
+	flex: 1 1 0px;
+}
+/* Pricing page */
+  .cnb-price-plans {
+    max-width:1000px;
+    margin: 0 auto 50px;
+  }
+  .cnb-price-plans .pricebox {
+    text-align:center;
+    padding:10px;
+    margin:10px;
+  }
+  .cnb-price-plans .pricebox h3 {
+    border-bottom:2px solid #ccc;
+    margin-bottom:0.5em;
+    padding-bottom:0.5em
+  }
+  .cnb-price-plans .pricebox .benefit {
+    padding-bottom: 1em;
+  }
+  .cnb-price-plans .pricebox h3.yearly {
+    border-bottom:2px solid #2271b1;
+  }
+  .cnb-price-plans .plan-amount {
+    margin:20px 0;
+    font-weight:700;
+  }
+  .cnb-price-plans .euros {
+    font-size:4em;
+  }
+  .cnb-price-plans .billingprice,
+  .cnb-price-plans .timeframe {
+    margin: 20px 0;
+    color:#999;
+    font-size:80%;
+    font-weight: normal;
+  }
+  .cnb-price-plans .currency {
+    font-size:150%;
+    color:#444;
+    font-weight: normal;
+  }
+  .cnb-price-plans .currency-box {
+  	display:none;
+  }
+  .cnb-price-plans .currency-box.currency-box-active {
+  	display: flex;
+  }

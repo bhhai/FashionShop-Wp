@@ -1,0 +1,601 @@
+# Translation of Plugins - Woo Viet &#8211; WooCommerce for Vietnam - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Woo Viet &#8211; WooCommerce for Vietnam - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-11 15:12:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Woo Viet &#8211; WooCommerce for Vietnam - Stable (latest release)\n"
+
+#: inc/onepay/international-settings.php:44
+msgid "Pay with international cards"
+msgstr "Thanh toán với thẻ quốc tế"
+
+#: inc/onepay/international-settings.php:37
+msgid "With OnePay, you can make payment by using any local international card such as Visa, Master, JCB, and Amex."
+msgstr "Với OnePay, bạn có thể thanh toán sử dụng các thẻ quốc tế như Visa, Master, JCB, hay Amex."
+
+#: inc/onepay/international-settings.php:29
+msgid "OnePay International Gateway"
+msgstr "Cổng thanh toán Quốc tế OnePay"
+
+#: inc/onepay/domestic-settings.php:44
+msgid "Pay with ATM cards"
+msgstr "Thanh toán với thẻ ATM"
+
+#: inc/onepay/domestic-settings.php:43 inc/onepay/international-settings.php:43
+msgid "Button label in the checkout page."
+msgstr "Nhãn của nút trên trang than toán"
+
+#: inc/onepay/domestic-settings.php:40 inc/onepay/international-settings.php:40
+msgid "Button text"
+msgstr "Tên của nút bấm"
+
+#: inc/class-wooviet-admin-page.php:320
+msgid "Wanna get support or give feedback? Please <a href=\"%1$s\">rate Woo Viet</a> or post questions <a href=\"%2$s\">in the forum</a>!"
+msgstr "Bạn muốn được hỗ trợ hay gửi phản hồi? Vui lòng <a href=\"%1$s\">đánh giá Woo Viet</a> hoặc đăng câu hỏi <a href=\"%2$s\">ở đây</a>!"
+
+#: inc/class-wooviet-admin-page.php:121
+msgid "Add the OnePay International Gateway"
+msgstr "Thêm Cổng thanh toán Quốc tế OnePay"
+
+#: inc/class-wooviet-onepay-international.php:20
+msgid "OnePay supports all major international cards Visa, Master, JCB, Amex, etc."
+msgstr "OnePay hỗ trợ các thẻ thanh toán quốc tế phổ biến như Visa, Master, JCB, hay Amex."
+
+#: inc/class-wooviet-onepay-international.php:19
+#: inc/onepay/international-settings.php:15
+msgid "OnePay International Gateway (by Woo Viet)"
+msgstr "Cổng thanh toán Quốc tế OnePay (bởi Woo Viet)"
+
+#: inc/class-wooviet-vnd-paypal-express-checkout.php:43
+msgid "The prices will be converted to %1$s in the PayPal Express Checkout pages with the exchange rate %2$s."
+msgstr "Giá cả sẽ được chuyển sang %1$s trong trang thanh toán của PayPal Express Checkout với tỷ giá %2$s."
+
+#: woo-viet.php:303
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: inc/onepay/abstract-payment.php:296
+msgid "OnePay info: "
+msgstr "Thông tin OnePay:"
+
+#: inc/class-wooviet-admin-page.php:273
+msgid "Support VND for <a href=\"%s\">the PayPal Express Checkout gateway</a>"
+msgstr "Hỗ trợ VND cho <a href=\"%s\">cổng thanh toán PayPal Express Checkout</a>"
+
+#: inc/onepay/domestic-settings.php:106
+#: inc/onepay/international-settings.php:106
+msgid "Log events, such as IPN requests, inside %s"
+msgstr "Log các sự kiện như các IPN request, ở file %s"
+
+#: inc/onepay/domestic-settings.php:104
+#: inc/onepay/international-settings.php:104
+msgid "Enable logging"
+msgstr "Bật chức năng log"
+
+#: inc/onepay/domestic-settings.php:102
+#: inc/onepay/international-settings.php:102
+msgid "Debug log"
+msgstr "Debug log"
+
+#: inc/class-wooviet-notices.php:91
+msgid "Dismiss this notice"
+msgstr "Tắt thông báo này"
+
+#: inc/class-wooviet-notices.php:89
+msgid "Or run a short survey:"
+msgstr "Hoặc làm một khảo sát ngắn:"
+
+#: inc/class-wooviet-notices.php:88
+msgid "Rate us!"
+msgstr "Đánh giá 5★ cho plugin!"
+
+#: inc/class-wooviet-notices.php:87
+msgid "Please help us to improve Woo Viet."
+msgstr "Vui lòng giúp chúng tôi cải thiện Woo Viet."
+
+#: inc/onepay/domestic-settings.php:96 inc/onepay/international-settings.php:96
+msgid "%sContact OnePay%s to configure this URL on its site. <strong>This is required  based on its guidelines.</strong>"
+msgstr "%sLiên hệ OnePay%s để cấu hình URL này trên site của OnePay. <strong>Đây là yêu cầu bắt buộc trong hướng dẫn của OnePay.</strong>"
+
+#: inc/onepay/domestic-settings.php:92 inc/onepay/international-settings.php:92
+msgid "Instant Payment Notification (IPN)"
+msgstr "Instant Payment Notification (IPN)"
+
+#: inc/onepay/domestic-settings.php:86 inc/onepay/international-settings.php:86
+msgid "Get your password info from OnePay."
+msgstr "Lấy thông tin mật khẩu từ OnePay. "
+
+#: inc/onepay/domestic-settings.php:84 inc/onepay/international-settings.php:84
+msgid "Password for queryDR. Test value: op123456"
+msgstr "Mật khẩu cho queryDR. Giá trị để test: op01"
+
+#: inc/onepay/domestic-settings.php:81 inc/onepay/international-settings.php:81
+msgid "Required. Provided by OnePay"
+msgstr "Bắt buộc. Cung cấp bởi OnePay"
+
+#: inc/onepay/domestic-settings.php:78 inc/onepay/international-settings.php:78
+msgid "Get your user info from OnePay."
+msgstr "Lấy thông tin người dùng từ OnePay. "
+
+#: inc/onepay/domestic-settings.php:76 inc/onepay/international-settings.php:76
+msgid "User for queryDR. Test value: op01"
+msgstr "Người dùng cho queryDR. Giá trị để test: op01"
+
+#: inc/onepay/domestic-settings.php:70 inc/onepay/international-settings.php:70
+msgid "Get your Secure Secret from OnePay."
+msgstr "Lấy thông tin Secure Secret từ OnePay. "
+
+#: inc/onepay/domestic-settings.php:68 inc/onepay/international-settings.php:68
+msgid "Secure Secret"
+msgstr "Secure Secret"
+
+#: inc/onepay/domestic-settings.php:62 inc/onepay/international-settings.php:62
+msgid "Get your Access Code from OnePay."
+msgstr "Lấy thông tin Access Code từ OnePay."
+
+#: inc/onepay/domestic-settings.php:60 inc/onepay/international-settings.php:60
+msgid "Access Code"
+msgstr "Access Code"
+
+#: inc/onepay/domestic-settings.php:57 inc/onepay/domestic-settings.php:65
+#: inc/onepay/domestic-settings.php:73 inc/onepay/domestic-settings.php:89
+#: inc/onepay/international-settings.php:57
+#: inc/onepay/international-settings.php:65
+#: inc/onepay/international-settings.php:73
+#: inc/onepay/international-settings.php:89
+msgid "Required. Provided by OnePay."
+msgstr "Bắt buộc. Cung cấp bởi OnePay."
+
+#: inc/onepay/domestic-settings.php:54 inc/onepay/international-settings.php:54
+msgid "Get your Merchant ID from OnePay."
+msgstr "Lấy thông tin Merchant ID từ OnePay."
+
+#: inc/onepay/domestic-settings.php:52 inc/onepay/international-settings.php:52
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+#: inc/onepay/domestic-settings.php:49 inc/onepay/international-settings.php:49
+msgid "Enter your OnePay API credentials. Contact OnePay to have your credentials %shere%s."
+msgstr "Điền thông tin OnePay API. Liên hệ OnePay để có thông tin này %stại đây%s."
+
+#: inc/onepay/domestic-settings.php:47 inc/onepay/international-settings.php:47
+msgid "API Credentials"
+msgstr "API Credentials"
+
+#: inc/onepay/domestic-settings.php:37
+msgid "With OnePay, you can make payment by using any local Vietnam ATM card."
+msgstr "Với OnePay, bạn có thể thanh toán bằng bất cử thẻ ATM nội địa nào của Việt Nam."
+
+#: inc/onepay/domestic-settings.php:36 inc/onepay/international-settings.php:36
+msgid "This controls the description which the user sees during checkout."
+msgstr "Điều chỉnh mô tả mà khách hàng có thể thấy trong quá trình thanh toán."
+
+#: inc/onepay/domestic-settings.php:33 inc/onepay/international-settings.php:33
+msgid "Description"
+msgstr "Mô tả"
+
+#: inc/onepay/domestic-settings.php:29
+msgid "OnePay Domestic Gateway"
+msgstr "Cổng thanh toán nội địa OnePay"
+
+#: inc/onepay/domestic-settings.php:28 inc/onepay/international-settings.php:28
+msgid "This controls the title which the user sees during checkout."
+msgstr "Điều chỉnh tiêu đề mà khách hàng thấy trong quá trình thanh toán. "
+
+#: inc/onepay/domestic-settings.php:26 inc/onepay/international-settings.php:26
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/onepay/domestic-settings.php:23 inc/onepay/international-settings.php:23
+msgid "OnePay sandbox can be used to test payments. See <a href=\"%s\">the testing info</a>."
+msgstr "Sử dụng OnePay sandbox cho việc test chức năng cổng thanh toán. Xem <a href=\"%s\">thông tin chi tiết tại</a>."
+
+#: inc/onepay/domestic-settings.php:21 inc/onepay/international-settings.php:21
+msgid "Enable OnePay sandbox (testing)"
+msgstr "Bật OnePay sandbox (dành cho test)"
+
+#: inc/onepay/domestic-settings.php:19 inc/onepay/international-settings.php:19
+msgid "OnePay Sandbox"
+msgstr "OnePay Sandbox"
+
+#: inc/onepay/domestic-settings.php:13 inc/onepay/international-settings.php:13
+msgid "Enable/Disable"
+msgstr "Bật / Tắt"
+
+#: inc/onepay/abstract-payment.php:263
+msgid " Gateway Info | Code: %1$s | Message: %2$s | MerchantTxnRef: %3$s | Type: %4$s"
+msgstr "OnePay Domestic Gateway Info | Code: %1$s | Message: %2$s | MerchantTxnRef: %3$s | Type: %4$s"
+
+#: inc/onepay/abstract-payment.php:118
+msgid "OnePay Payment Title"
+msgstr "OnePay Payment Title"
+
+#: inc/class-wooviet-onepay-domestic.php:20
+msgid "OnePay supports all major bank ATMs in Vietnam."
+msgstr "OnePay hỗ trợ tất cả thẻ ATM của các ngân hàng chính ở Việt Nam."
+
+#: inc/class-wooviet-onepay-domestic.php:19 inc/onepay/domestic-settings.php:15
+msgid "OnePay Domestic Gateway (by Woo Viet)"
+msgstr "Cổng thanh toán nội địa OnePay (bởi Woo Viet)"
+
+#: inc/class-wooviet-admin-page.php:113 inc/class-wooviet-admin-page.php:142
+msgid "<span style=\"color: red\" \">This gateway is not active on your site. Because OnePay supports VND only.</span>"
+msgstr "<span style=\"color: red\" \">Cổng thanh toán này không hoạt động trên website của bạn. Vì OnePay chỉ hỗ trợ VND.</span>"
+
+#: inc/class-wooviet-admin-page.php:110 inc/class-wooviet-admin-page.php:139
+msgid "Please configure this gateway under <a href=\"%s\">WooCommerce -> Settings -> Checkout</a>."
+msgstr "Vui lòng cài đặt cổng thanh toán này ở trang <a href=\"%s\">WooCommerce -> Cài đặt -> Thanh toán</a>."
+
+#: inc/class-wooviet-admin-page.php:107 inc/class-wooviet-admin-page.php:136
+msgid "OnePay can work on your site."
+msgstr "OnePay có thể hoạt động trên website của bạn."
+
+#: inc/class-wooviet-admin-page.php:104 inc/class-wooviet-admin-page.php:133
+msgid "Your store currency is <code>%s</code>. "
+msgstr "Tiền tệ hiện tại của bạn là  <code>%s</code>. "
+
+#: inc/class-wooviet-admin-page.php:92
+msgid "Add the OnePay Domestic Gateway"
+msgstr "Thêm Cổng thanh toán nội địa của OnePay"
+
+#: lib/wc-city-select/wc-city-select.php:130
+#: lib/wc-city-select/wc-city-select.php:171
+msgid "Select an option&hellip;"
+msgstr "Select an option&hellip;"
+
+#: lib/wc-city-select/wc-city-select.php:90
+msgid "required"
+msgstr "required"
+
+#: inc/class-wooviet-admin-page.php:161
+msgid "Require \"Add provinces for Vietnam\" active"
+msgstr "Yêu cầu \"Thêm tỉnh thành cho Việt Nam\" đã được lựa chọn"
+
+#: inc/class-wooviet-admin-page.php:160
+msgid "Add districts for Vietnam"
+msgstr "Thêm quận huyện cho Việt Nam"
+
+#: inc/class-wooviet-admin-page.php:62
+msgid "Woo Viet Settings"
+msgstr "Tuỳ chọn cho Woo Viet"
+
+#. Plugin Name of the plugin
+msgid "Woo Viet - WooCommerce for Vietnam"
+msgstr "Woo Viet - WooCommerce for Vietnam"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/htdat"
+msgstr "https://profiles.wordpress.org/htdat"
+
+#. Author of the plugin
+msgid "htdat"
+msgstr "htdat"
+
+#. Description of the plugin
+msgid "This plugin provides features and integrations specifically for Vietnam."
+msgstr "Plugin này cung cấp các chức năng và tích hợp riêng cho thị trường Việt Nam."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/htdat/woo-viet"
+msgstr "https://github.com/htdat/woo-viet"
+
+#: woo-viet.php:110
+msgid "Woo Viet is not running because WooCommerce is not active. Please activate both plugins."
+msgstr "Woo Viet đang không hoạt động vì WooCommerce chưa được kích hoạt. Vui lòng kích hoạt cả hai plugins."
+
+#: inc/class-wooviet-vnd-paypal-standard.php:106
+msgid "The prices will be converted to %1$s in the PayPal pages with the exchange rate %2$s."
+msgstr "Các giá sẽ được chuyển đổi sang %1$s ở trên trang của PayPal với tỷ giá %2$s."
+
+#: inc/class-wooviet-provinces.php:134
+msgid "Yen Bai"
+msgstr "Yên Bái"
+
+#: inc/class-wooviet-provinces.php:133
+msgid "Vinh Phuc"
+msgstr "Vĩnh Phúc"
+
+#: inc/class-wooviet-provinces.php:132
+msgid "Vinh Long"
+msgstr "Vĩnh Long"
+
+#: inc/class-wooviet-provinces.php:131
+msgid "Tuyen Quang"
+msgstr "Tuyên Quang"
+
+#: inc/class-wooviet-provinces.php:130
+msgid "Tra Vinh"
+msgstr "Trà Vinh"
+
+#: inc/class-wooviet-provinces.php:129
+msgid "Tien Giang"
+msgstr "Tiền Giang"
+
+#: inc/class-wooviet-provinces.php:128
+msgid "Thua Thien - Hue"
+msgstr "Thừa Thiên - Huế"
+
+#: inc/class-wooviet-provinces.php:127
+msgid "Thanh Hoa"
+msgstr "Thanh Hóa"
+
+#: inc/class-wooviet-provinces.php:126
+msgid "Thai Nguyen"
+msgstr "Thái Nguyên"
+
+#: inc/class-wooviet-provinces.php:125
+msgid "Thai Binh"
+msgstr "Thái Bình"
+
+#: inc/class-wooviet-provinces.php:124
+msgid "Tay Ninh"
+msgstr "Tây Ninh"
+
+#: inc/class-wooviet-provinces.php:123
+msgid "Son La"
+msgstr "Sơn La"
+
+#: inc/class-wooviet-provinces.php:122
+msgid "Soc Trang"
+msgstr "Sóc Trăng"
+
+#: inc/class-wooviet-provinces.php:121
+msgid "Quang Tri"
+msgstr "Quảng Trị"
+
+#: inc/class-wooviet-provinces.php:120
+msgid "Quang Ninh"
+msgstr "Quảng Ninh"
+
+#: inc/class-wooviet-provinces.php:119
+msgid "Quang Ngai"
+msgstr "Quảng Ngãi"
+
+#: inc/class-wooviet-provinces.php:118
+msgid "Quang Nam"
+msgstr "Quảng Nam"
+
+#: inc/class-wooviet-provinces.php:117
+msgid "Quang Binh"
+msgstr "Quảng Bình"
+
+#: inc/class-wooviet-provinces.php:116
+msgid "Phu Yen"
+msgstr "Phú Yên"
+
+#: inc/class-wooviet-provinces.php:115
+msgid "Phu Tho"
+msgstr "Phú Thọ"
+
+#: inc/class-wooviet-provinces.php:114
+msgid "Ninh Thuan"
+msgstr "Ninh Thuận"
+
+#: inc/class-wooviet-provinces.php:113
+msgid "Ninh Binh"
+msgstr "Ninh Bình"
+
+#: inc/class-wooviet-provinces.php:112
+msgid "Nghe An"
+msgstr "Nghệ An"
+
+#: inc/class-wooviet-provinces.php:111
+msgid "Nam Dinh"
+msgstr "Nam Định"
+
+#: inc/class-wooviet-provinces.php:110
+msgid "Long An"
+msgstr "Long An"
+
+#: inc/class-wooviet-provinces.php:109
+msgid "Lam Dong"
+msgstr "Lâm Đồng"
+
+#: inc/class-wooviet-provinces.php:108
+msgid "Lang Son"
+msgstr "Lạng Sơn"
+
+#: inc/class-wooviet-provinces.php:107
+msgid "Lao Cai"
+msgstr "Lào Cai"
+
+#: inc/class-wooviet-provinces.php:106
+msgid "Lai Chau"
+msgstr "Lai Châu"
+
+#: inc/class-wooviet-provinces.php:105
+msgid "Kon Tum"
+msgstr "Kon Tum"
+
+#: inc/class-wooviet-provinces.php:104
+msgid "Kien Giang"
+msgstr "Kiên Giang"
+
+#: inc/class-wooviet-provinces.php:103
+msgid "Khanh Hoa"
+msgstr "Khánh Hòa"
+
+#: inc/class-wooviet-provinces.php:102
+msgid "Ho Chi Minh"
+msgstr "Hồ Chí Minh"
+
+#: inc/class-wooviet-provinces.php:101
+msgid "Hung Yen"
+msgstr "Hưng Yên"
+
+#: inc/class-wooviet-provinces.php:100
+msgid "Hau Giang"
+msgstr "Hậu Giang"
+
+#: inc/class-wooviet-provinces.php:99
+msgid "Hoa Binh"
+msgstr "Hòa Bình"
+
+#: inc/class-wooviet-provinces.php:98
+msgid "Hai Phong"
+msgstr "Hải Phòng"
+
+#: inc/class-wooviet-provinces.php:97
+msgid "Hai Duong"
+msgstr "Hải Dương"
+
+#: inc/class-wooviet-provinces.php:96
+msgid "Ha Tinh"
+msgstr "Hà Tĩnh"
+
+#: inc/class-wooviet-provinces.php:95
+msgid "Ha Noi"
+msgstr "Hà Nội"
+
+#: inc/class-wooviet-provinces.php:94
+msgid "Ha Nam"
+msgstr "Hà Nam"
+
+#: inc/class-wooviet-provinces.php:93
+msgid "Ha Giang"
+msgstr "Hà Giang"
+
+#: inc/class-wooviet-provinces.php:92
+msgid "Gia Lai"
+msgstr "Gia Lai"
+
+#: inc/class-wooviet-provinces.php:91
+msgid "Dien Bien"
+msgstr "Điện Biên"
+
+#: inc/class-wooviet-provinces.php:90
+msgid "Dong Thap"
+msgstr "Đồng Tháp"
+
+#: inc/class-wooviet-provinces.php:89
+msgid "Dong Nai"
+msgstr "Đồng Nai"
+
+#: inc/class-wooviet-provinces.php:88
+msgid "Dak Nong"
+msgstr "Đắk Nông"
+
+#: inc/class-wooviet-provinces.php:87
+msgid "Dak Lak"
+msgstr "Đắk Lắk"
+
+#: inc/class-wooviet-provinces.php:86
+msgid "Da Nang"
+msgstr "Đà Nẵng"
+
+#: inc/class-wooviet-provinces.php:85
+msgid "Can Tho"
+msgstr "Cần Thơ"
+
+#: inc/class-wooviet-provinces.php:84
+msgid "Cao Bang"
+msgstr "Cao Bằng"
+
+#: inc/class-wooviet-provinces.php:83
+msgid "Ca Mau"
+msgstr "Cà Mau"
+
+#: inc/class-wooviet-provinces.php:82
+msgid "Binh Thuan"
+msgstr "Bình Thuận"
+
+#: inc/class-wooviet-provinces.php:81
+msgid "Binh Phuoc"
+msgstr "Bình Phước"
+
+#: inc/class-wooviet-provinces.php:80
+msgid "Binh Dinh"
+msgstr "Bình Định"
+
+#: inc/class-wooviet-provinces.php:79
+msgid "Binh Duong"
+msgstr "Bình Dương"
+
+#: inc/class-wooviet-provinces.php:78
+msgid "Ben Tre"
+msgstr "Bến Tre"
+
+#: inc/class-wooviet-provinces.php:77
+msgid "Bac Ninh"
+msgstr "Bắc Ninh"
+
+#: inc/class-wooviet-provinces.php:76
+msgid "Bac Giang"
+msgstr "Bắc Giang"
+
+#: inc/class-wooviet-provinces.php:75
+msgid "Bac Kan"
+msgstr "Bắc Kạn"
+
+#: inc/class-wooviet-provinces.php:74
+msgid "Bac Lieu"
+msgstr "Bạc Liêu"
+
+#: inc/class-wooviet-provinces.php:73
+msgid "Ba Ria - Vung Tau"
+msgstr "Bà Rịa - Vũng Tàu"
+
+#: inc/class-wooviet-provinces.php:72
+msgid "An Giang"
+msgstr "An Giang"
+
+#: inc/class-wooviet-provinces.php:53
+msgid "District"
+msgstr "Quận huyện"
+
+#: inc/class-wooviet-provinces.php:50
+msgid "Province"
+msgstr "Tỉnh thành"
+
+#: inc/class-wooviet-admin-page.php:267 inc/class-wooviet-admin-page.php:305
+msgid "Insert the exchange rate of this currency to VND"
+msgstr "Điền tỷ giá của đồng tiền này đối với VND"
+
+#: inc/class-wooviet-admin-page.php:260 inc/class-wooviet-admin-page.php:297
+msgid "Select a PayPal supported currency (like USD, EUR, etc), which is used to convert VND prices"
+msgstr "Chọn một tiền tệ được PayPal hỗ trợ (như USD, EUR, v.v), loại tiền này sẽ được sử dụng để chuyển đổi từ các giá cả VND"
+
+#: inc/class-wooviet-admin-page.php:208
+msgid "Support VND for <a href=\"%s\">the PayPal Standard gateway</a>"
+msgstr "Hỗ trợ VND cho <a href=\"%s\">cổng thanh toán PayPal Standard</a>"
+
+#: inc/class-wooviet-admin-page.php:202
+msgid "Choose what you want to change. E.g:"
+msgstr "Lựa chọn chữ mà bạn muốn thay đổi. Ví dụ:"
+
+#: inc/class-wooviet-admin-page.php:189
+msgid "Convert <code>000</code> of prices to K (or anything)"
+msgstr "Chuyển đổi các số <code>000</code> trong giá thành K (hoặc bất kỳ chữ nào khác)"
+
+#: inc/class-wooviet-admin-page.php:185
+msgid "Insert a text to change the default symbol <code>đ</code>"
+msgstr "Chọn một chữ để thay đổi cho ký hiệu mặc định <code>đ</code>"
+
+#: inc/class-wooviet-admin-page.php:172
+msgid "Change VND currency symbol"
+msgstr "Thay đổi ký hiệu của đồng tiền VND"
+
+#: inc/class-wooviet-admin-page.php:99 inc/class-wooviet-admin-page.php:128
+#: inc/class-wooviet-admin-page.php:156 inc/class-wooviet-admin-page.php:168
+#: inc/class-wooviet-admin-page.php:179 inc/class-wooviet-admin-page.php:196
+#: inc/class-wooviet-admin-page.php:215 inc/class-wooviet-admin-page.php:280
+msgid "Enabled"
+msgstr "Bật"
+
+#: inc/class-wooviet-admin-page.php:150
+msgid "Add provinces for Vietnam"
+msgstr "Thêm tỉnh thành cho Việt Nam"
+
+#: inc/class-wooviet-admin-page.php:50
+msgid "Can not save settings! Please refresh this page."
+msgstr "Không thể lưu các tuỳ chọn! Vui lòng refresh lại trang này."
+
+#: inc/class-wooviet-admin-page.php:43
+msgid "Settings saved"
+msgstr "Các tuỳ chọn đã được lưu"

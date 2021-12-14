@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+.related-post {
+	clear: both;
+	margin: 20px 0;
+}
+
+.related-post .headline {
+	font-size: 18px;
+	margin: 20px 0;
+	font-weight: bold;
+}
+
+
+
+.related-post .post-list .item {
+	overflow: hidden;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.related-post .post-list .item .thumb{overflow: hidden;}
+.related-post .post-list .item .thumb img {
+	width: 100%;
+	height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*########################### Slider ############################*/
+
+
+.related-post .post-list.owl-carousel {
+	position: relative;
+	padding-top: 45px;
+}
+
+
+.related-post .owl-dots {
+  margin: 30px 0 0;
+  text-align: center;
+}
+
+
+.related-post .owl-dots .owl-dot {
+  background: #869791 none repeat scroll 0 0;
+  border-radius: 20px;
+  display: inline-block;
+  height: 12px;
+  margin: 5px 7px;
+  opacity: 0.5;
+  width: 12px;
+}
+
+.related-post .owl-dots .owl-dot:hover,
+.related-post .owl-dots .owl-dot.active {
+  opacity: 1;
+
+}
+
+
+.related-post .owl-nav  {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}
+
+
+.related-post .owl-nav .owl-prev, .related-post .owl-nav .owl-next {
+	border: 1px solid rgb(171, 170, 170);
+	border-radius: 3px;
+	color: rgb(0, 0, 0);
+	padding: 2px 20px;;
+	opacity: 1;
+	display: inline-block;
+	margin: 0 3px;
+}
+
+.related-post .owl-nav .owl-prev {
+
+
+}
+
+
+
+.related-post .owl-nav .owl-next {
+
+
+}

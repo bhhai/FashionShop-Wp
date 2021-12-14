@@ -1,0 +1,494 @@
+= 3.0.7 =
+
+* Update fonts list
+
+= 3.0.6 =
+
+* Remove dependency on fontsplugin.com to show news
+
+= 3.0.5 =
+
+* Update and compress fonts list.
+
+= 3.0.4 =
+
+* Add subset=all parameter to ensure all glyphs are loaded
+
+= 3.0.3 =
+
+* Security hardening
+
+= 3.0.2 =
+
+* Update fonts list in Gutenberg
+
+= 3.0.1 =
+
+* Update fonts list
+
+= 3.0.0 =
+
+* Fix imcompatibility with Juliet theme tagline.
+
+= 2.5.9 =
+
+* Update fonts list.
+* Fix conflict in Customizer with the Hestia theme.
+
+= 2.5.8 =
+
+* Fix issue where 'Font Loading' screen was not showing if any non-Google fonts were chosen.
+* If 'Force Styles' is enabled, add !important to block output.
+* Add compatibility pack for the Graphene theme.
+
+= 2.5.7 =
+
+* Add control for quotes (blockquotes)
+* Improve compatibility with TwentyTwenty
+
+= 2.5.6 =
+
+* Code optimization for future improvements.
+* Fix inefficiencies with Typekit enqueues.
+* Improve output of CSS variables.
+
+= 2.5.5 =
+
+* Fix bug where Custom Font Files weren't being enqueued in Gutenberg.
+
+= 2.5.4 =
+
+* Update Google Fonts list
+* Improve Adobe Fonts integration
+
+= 2.5.3 =
+
+* Update localization
+
+= 2.5.1 =
+
+* Hotfix for API error
+
+= 2.5.0 =
+
+* Add support for Adobe Fonts / Typekit
+
+= 2.4.0 =
+
+* Increase max font size in Gutenberg to 150px
+
+= 2.3.9 =
+
+* Improve QS Guide page
+
+= 2.3.8 =
+
+* Administrators can now disable the editor-level font controls
+
+= 2.3.7 =
+
+* Add compatibility pack for ColorLib themes
+
+= 2.3.6 =
+
+* Add 'none' option to text-transform in the Customizer
+* Remove useless console.log in Gutenberg
+
+= 2.3.5 =
+
+* Fix bug in Classic Editor when base fonts are not chosen
+
+= 2.3.4 =
+
+* Improve CSS specificity
+
+= 2.3.3 =
+
+* Classic Editor bug fix
+
+= 2.3.2 =
+
+* Fix join() error in PHP7.4
+
+= 2.3.1 =
+
+* Gutenberg block fixes
+
+= 2.3.0 =
+
+* Add font-display option (block, swap, fallback, optional)
+
+= 2.2.4 =
+
+* Add failsafe to protect against fonts getting removed
+
+= 2.2.3 =
+
+* Update fonts list
+
+= 2.2.2 =
+
+* Block Editor improvements
+
+= 2.2.1 =
+
+* Fix broken activation redirect
+
+= 2.2.0 =
+
+* Performance improvements
+* Add easy access links in wp-admin
+
+= 2.1.9 =
+
+* Fix minor javascript error
+
+= 2.1.8 =
+
+* Fix text-transform control not showing correctly.
+* Improve color control styling.
+
+= 2.1.7 =
+
+* Fix italic fonts not listed correctly in fonts.json.
+
+= 2.1.6 =
+
+* Update fonts list.
+
+= 2.1.5 =
+
+* Rewrite CSS vars to use Automattic's theme format.
+
+= 2.1.4 =
+
+* Expand sidebar CSS selectors.
+
+= 2.1.3 =
+
+* Fix broken link in readme.
+
+= 2.1.2 =
+
+* Overwrite the Classic Editor's typography using the 'Basic Settings'.
+
+= 2.1.1 =
+
+* Fix issue where customizer wasn't loading correct font weights.
+
+= 2.1.0 =
+
+* Further optimize fonts.json.
+* Update fonts list.
+
+= 2.0.7 =
+
+* Fix array_key_exists() error, props @rafafallo
+
+= 2.0.6 =
+
+* Output the 'Basic Setting' choices as CSS variables. props @helgatheviking.
+* Fix issue where important wasn't being applied to some system fonts.
+* Add welcome page.
+
+= 2.0.5 =
+
+* Fix error notice in customizer.
+
+= 2.0.4 =
+
+ * Update fonts list.
+
+= 2.0.3 =
+
+ * Hotfix for customizer weight selector control.
+
+= 2.0.2 =
+
+ * Remove incorrectly printed variable in customizer.
+
+= 2.0.1 =
+
+ * Huge optimization of the ogf_font_array function. props @bndn
+ * Fix typo in file structure
+
+= 2.0.0 =
+
+ * Add support for LyraThemes.
+
+= 1.9.99 =
+
+ * Add new fonts, including Inter.
+
+= 1.9.97 =
+
+ * Update copyright.
+
+= 1.9.95 =
+
+ * Improve compatibility with themes from 'Theme Freesia'.
+
+= 1.9.94 =
+
+ * Fix headings in Gutenberg not inheriting font settings.
+
+= 1.9.93 =
+
+ * Improved TwentyTwenty compatibility
+ * Update font list
+
+= 1.9.92 =
+
+ * Tested with WP5.3
+
+= 1.9.91 =
+
+ * Fix duplicates in Classic Editor
+
+= 1.9.9 =
+
+ * Add system fonts to Gutenberg Block
+ * Fix conflict with Freemius
+
+= 1.9.8 =
+
+ * Add new selector for 'Advanced Settings' → 'Content Typography'
+
+= 1.9.7 =
+
+ * Update Google Fonts list.
+ * Add dashboard news widget.
+
+= 1.9.6 =
+
+ * Add new fonts to Gutenberg.
+
+= 1.9.5 =
+
+ * Fix problem where font styles were overwriting the Gutenberg interface.
+
+= 1.9.4 =
+
+ * Improve i18n strings.
+
+= 1.9.3 =
+
+ * Add custom CSS later in wp_head.
+
+= 1.9.2 =
+
+ * Add system fonts to Classic Editor interface.
+
+= 1.9.1 =
+
+ * Fix conflict with TinyMCE Advanced plugin.
+
+= 1.9.0 =
+
+ * Update available fonts list.
+ * Add 'Classic Editor' support.
+ * Add Futura font.
+
+= 1.8.4 =
+
+ * Add compatibility pack for ThemeIsle themes.
+
+= 1.8.3 =
+
+* Move 'CSS' setting to 'Advanced' panel.
+* Add 'Reset' option to 'Debugging' section.
+
+= 1.8.2 =
+
+* Further improve theme compatibility for basic settings.
+
+= 1.8.1 =
+
+* Fix for "Invalid argument supplied for foreach()" error.
+
+= 1.8.0 =
+
+* Add 'Load Fonts for CSS' option.
+* Add first implementation of compatibility filter (ThemeGrill).
+
+= 1.7.6 =
+
+* Add global font choices to block editor.
+* Fix error in Gutenberg block.
+
+= 1.7.5 =
+
+* Fix font-display: swap in Gutenberg Block.
+* Improve compatibility with MailOptin.
+
+= 1.7.4 =
+
+* Transform core paragraph and heading blocks into "Google Fonts Blocks".
+* Add color option to "Google Fonts Block".
+* Add Block Type option to "Google Fonts Block".
+* Allow text customization in blocks even when a font is not selected.
+
+= 1.7.3 =
+
+* Compatibility fix for 'Local Hosting' addon.
+
+= 1.7.2 =
+
+* Add system fonts to the available choices.
+* Remove font_choices_for_select() to reduce the amount of code output in the customizer.
+* Fix issue where line-height is always 1.
+
+= 1.7.1 =
+
+* Fix changelog.txt link and include file in package.
+
+= 1.7.0 =
+
+* Reduce the load time impact on the customizer by ~1/3rd. Credits @aristath
+
+= 1.6.3 =
+
+* Fix $time Undefined variable.
+* Update .pot file
+* Update premium messaging
+
+= 1.6.2 =
+
+* Remove plugin recommendation for pro users as they already have the functionality
+
+= 1.6.1 =
+
+* Improve notifications class
+
+= 1.6.0 =
+
+* Add hook to CSS output
+* Optimize CSS output
+
+= 1.5.3 =
+
+* Update icon.
+* Move changelog to changelog.txt
+
+= 1.5.2 =
+
+* Improve Font Style setting.
+
+= 1.5.1 =
+
+* Speed up load times using preconnect resource hint.
+
+= 1.5.0 =
+
+* Fix problem with italics not being loaded.
+
+= 1.4.8 =
+
+* Improve theme compatibility
+
+* Fix previewer not showing fonts
+* Add new fonts
+
+= 1.4.0 =
+
+* Substantial performance improvements
+* Improved organization of settings
+
+= 1.3.2 =
+
+* Add welcome notice.
+
+= 1.3.1 =
+
+* Update font list.
+* Add version strings to resources.
+* Add deactivation survey.
+
+= 1.3.0 =
+
+* Add 'Force Styles' setting to the bottom of 'Advanced Settings'.
+
+= 1.2.5 =
+
+* Improve theme compatibility.
+
+= 1.2.4 =
+
+* Improve customizer CSS.
+* Improve Javascript code.
+
+= 1.2.3 =
+
+* Improve CSS for post/page headings and content.
+
+= 1.2.2 =
+
+* Minor updates
+
+= 1.2.1 =
+
+* Remove unused code
+
+= 1.2.0 =
+
+* Add new fonts
+* Add font-weight option
+* Add font-style option
+* Improve live preview
+* Add settings link to plugins page
+* Add searchable text field to font-family setting
+* Remove 'force styles' setting
+
+= 1.1.2 =
+
+* Add feedback request
+
+= 1.1.1 =
+
+* Add new fonts
+
+= 1.1.0 =
+
+* Improve outputting of Google stylesheet
+
+= 1.0.9 =
+
+* Fix navigation font setting
+
+= 1.0.8 =
+
+* Fix compatibility issue with PHP 5.2
+
+= 1.0.7 =
+
+* Add advanced settings
+
+= 1.0.6 =
+
+* Minor code improvements
+
+= 1.0.5 =
+
+* Add force styles option
+
+= 1.0.3 =
+
+* Rewrite readme
+
+= 1.0.3 =
+
+* Rename to adhere to guidelines
+
+= 1.0.2 =
+
+* Refactor get_choices in class-google-url.php
+
+= 1.0.1 =
+
+* Fix bug in class-google-url.php
+* Add missing translation
+* Add .pot file for translators
+
+= 1.0.0 =
+
+* Initial release of Google Fonts for WordPress

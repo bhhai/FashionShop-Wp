@@ -1,0 +1,759 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-22T09:12:40+00:00\n"
+"PO-Revision-Date: 2020-04-26 14:35-0300\n"
+"Last-Translator: Mauricio López Coria <mlopez@pronet.com.uy>\n"
+"Language-Team: Español de Argentina\n"
+"Language: es_AR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. Theme Name of the theme
+msgid "Flatsome"
+msgstr "Flatsome"
+
+#. Theme URI of the theme
+msgid "http://flatsome.uxthemes.com/"
+msgstr "http://flatsome.uxthemes.com/"
+
+#. Description of the theme
+msgid "Multi-Purpose Responsive WooCommerce Theme"
+msgstr "Tema adaptable multipropósito para WooCommerce"
+
+#. Author of the theme
+msgid "UX-Themes"
+msgstr "UX-Themes"
+
+#. Author URI of the theme
+msgid "http://www.uxthemes.com/"
+msgstr "http://www.uxthemes.com/"
+
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Ups! No pudimos encontrar esa p&aacute;gina."
+
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Parece que no se encontró nada en esta ubicación. ¿Quizás podés probar con "
+"algún enlace de abajo o una búsqueda?"
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensamiento en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensamientos en &ldquo;%2$s&rdquo;"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Navegación en comentarios"
+
+#: comments.php:50
+msgid "Older Comments"
+msgstr "Comentarios más antiguos"
+
+#: comments.php:51
+msgid "Newer Comments"
+msgstr "Comentarios más nuevos"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: header.php:18
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: image.php:26
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Publicado <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> a las <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> en <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+
+#: image.php:38 image.php:108 inc/structure/structure-posts.php:168
+#: inc/structure/structure-posts.php:197
+msgid "Edit"
+msgstr "Editar"
+
+#: image.php:100
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Publicá un comentario"
+"\">Publicá un comentario</a> o dejá un trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"URL del Trackback de tu entrada\" rel=\"trackback"
+"\">URL del trackback </a>."
+
+#: image.php:102
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Los comentarios están cerrados pero podés dejar un trackback: <a class="
+"\"trackback-link\" href=\"%s\" title=\"URL del Trackback para tu entrada\" "
+"rel=\"trackback\">URL del Trackback</a>."
+
+#: image.php:104
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Los trackbacks están cerrados pero podés <a class=\"comment-link\" href="
+"\"#respond\" title=\"Publicar un comentario\">publicar un comentario</a>."
+
+#: image.php:106
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Tanto los comentarios como los trackbacks están cerrados."
+
+#: image.php:113
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anterior"
+
+#: image.php:114
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Siguiente <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/admin/gutenberg/class-gutenberg.php:104
+msgid "Edit with UX Builder"
+msgstr "Editar con el Constructor UX"
+
+#: inc/admin/options/portfolio/options-portfolio.php:76
+msgid "Show share icons"
+msgstr "Mostrar íconos para compartir"
+
+#: inc/admin/options/shop/options-shop-cart-checkout.php:46
+msgid "Boxed Shipping labels"
+msgstr "Etiquetas de envío en caja"
+
+#: inc/admin/options/shop/options-shop-cart-checkout.php:54
+msgid "Show shipping estimate destination"
+msgstr "Mostrar destino estimado del envío"
+
+#: inc/extensions/flatsome-infinite-scroll/templates/button.php:2
+msgid "View more"
+msgstr "Ver más"
+
+#: inc/extensions/flatsome-live-search/flatsome-live-search.php:198
+msgid "No matches found"
+msgstr "No se encontraron resultados"
+
+#: inc/extensions/flatsome-wc-quick-view/flatsome-quick-view.php:15
+msgid "Quick View"
+msgstr "Vista rápida"
+
+#: inc/functions/function-custom-css.php:622
+#: inc/woocommerce/structure-wc-product-box.php:29
+msgid "New"
+msgstr "Nuevo"
+
+#: inc/functions/function-custom-css.php:623
+msgid "Hot"
+msgstr "Popular"
+
+#: inc/functions/function-custom-css.php:624
+msgid "Sale"
+msgstr "Oferta"
+
+#: inc/functions/function-custom-css.php:625
+msgid "Popular"
+msgstr "Popular"
+
+#: inc/functions/function-setup.php:53
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: inc/functions/function-setup.php:54
+msgid "Main Menu - Mobile"
+msgstr "Menú principal - Móviles"
+
+#: inc/functions/function-setup.php:55
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: inc/functions/function-setup.php:56
+msgid "Top Bar Menu"
+msgstr "Menú de la barra superior"
+
+#: inc/functions/function-setup.php:57
+msgid "My Account Menu"
+msgstr "Menú Mi cuenta"
+
+#: inc/functions/function-setup.php:77
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/functions/function-setup.php:87
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: inc/functions/function-setup.php:97
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: inc/integrations/wc-yith-wishlist/yith-wishlist.php:61
+#: inc/integrations/wc-yith-wishlist/yith-wishlist.php:82
+msgid "Wishlist"
+msgstr "Lista de deseos"
+
+#. translators: %s: comment count
+#: inc/shortcodes/blog_posts.php:276
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#: inc/shortcodes/portfolio.php:146 woocommerce/product-searchform.php:38
+msgid "All"
+msgstr "Todo"
+
+#: inc/shortcodes/share_follow.php:77
+msgid "Share on WhatsApp"
+msgstr "Compartir en WhatsApp"
+
+#: inc/shortcodes/share_follow.php:79
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook"
+
+#: inc/shortcodes/share_follow.php:81
+msgid "Share on Twitter"
+msgstr "Compartir en Twitter"
+
+#: inc/shortcodes/share_follow.php:83
+msgid "Email to a Friend"
+msgstr "Mandar por correo"
+
+#: inc/shortcodes/share_follow.php:85
+msgid "Pin on Pinterest"
+msgstr "Pinchar en Pinterest"
+
+#: inc/shortcodes/share_follow.php:87
+msgid "Share on VKontakte"
+msgstr "Compartir en VKontakte"
+
+#: inc/shortcodes/share_follow.php:89
+msgid "Share on LinkedIn"
+msgstr "Compartir en LinkedIn"
+
+#: inc/shortcodes/share_follow.php:91
+msgid "Share on Tumblr"
+msgstr "Compartir en Tumblr"
+
+#: inc/shortcodes/share_follow.php:177
+msgid "Follow on Facebook"
+msgstr "Seguir en Facebook"
+
+#: inc/shortcodes/share_follow.php:181
+msgid "Follow on Instagram"
+msgstr "Seguir en Instagram"
+
+#: inc/shortcodes/share_follow.php:185
+msgid "Follow on TikTok"
+msgstr "Seguir en TikTok"
+
+#: inc/shortcodes/share_follow.php:189
+msgid "Follow on SnapChat"
+msgstr "Seguir en SnapChat"
+
+#: inc/shortcodes/share_follow.php:194
+msgid "Point the SnapChat camera at this to add us to SnapChat."
+msgstr "Apuntá la cámara de SnapChat hacia esto para agregarnos a SnapChat."
+
+#: inc/shortcodes/share_follow.php:199
+msgid "Follow on Twitter"
+msgstr "Seguir en Twitter"
+
+#: inc/shortcodes/share_follow.php:203
+msgid "Send us an email"
+msgstr "Mandanos un correo"
+
+#: inc/shortcodes/share_follow.php:207
+msgid "Call us"
+msgstr "Llamanos"
+
+#: inc/shortcodes/share_follow.php:211
+msgid "Follow on Pinterest"
+msgstr "Seguir en Pinterest"
+
+#: inc/shortcodes/share_follow.php:215
+msgid "Subscribe to RSS"
+msgstr "Suscribirse al RSS"
+
+#: inc/shortcodes/share_follow.php:218
+msgid "Follow on LinkedIn"
+msgstr "Seguir en LinkedIn"
+
+#: inc/shortcodes/share_follow.php:221
+msgid "Follow on YouTube"
+msgstr "Seguir en YouTube"
+
+#: inc/shortcodes/share_follow.php:225
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/shortcodes/share_follow.php:229
+msgid "Follow on 500px"
+msgstr "Seguir en 500px"
+
+#: inc/shortcodes/share_follow.php:233
+msgid "Follow on VKontakte"
+msgstr "Seguir en VKontakte"
+
+#: inc/structure/structure-portfolio.php:50
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/structure/structure-posts.php:139
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span> Entradas más antiguas"
+
+#: inc/structure/structure-posts.php:144
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "Entradas más nuevas <span class=\"icon-angle-right\"></span>"
+
+#: inc/structure/structure-posts.php:168
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/structure/structure-posts.php:184
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dice:</span>"
+
+#: inc/structure/structure-posts.php:186
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario se encuentra pendiente de moderación."
+
+#: inc/structure/structure-posts.php:195
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: inc/structure/structure-posts.php:235
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#: inc/structure/structure-posts.php:240
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/widgets/widget-blocks.php:17
+msgid "A widget that displays a Block "
+msgstr "Un widget que muestra un bloque"
+
+#: inc/widgets/widget-blocks.php:21
+msgid "Flatsome Blocks"
+msgstr "Bloques de Flatsome"
+
+#: inc/widgets/widget-blocks.php:85 inc/widgets/widget-recent-posts.php:129
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widgets/widget-blocks.php:88
+msgid "Block:"
+msgstr "Bloque:"
+
+#: inc/widgets/widget-recent-posts.php:18
+msgid "A widget that displays recent posts "
+msgstr "Un widget que muestra las entradas recientes"
+
+#: inc/widgets/widget-recent-posts.php:22
+msgid "Flatsome Recent Posts"
+msgstr "Entradas recientes de Flatsome"
+
+#: inc/widgets/widget-recent-posts.php:49
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: inc/widgets/widget-recent-posts.php:86
+#: template-parts/posts/partials/entry-footer-single.php:24
+#: template-parts/posts/partials/entry-footer.php:24
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1</strong> comentario"
+
+#: inc/widgets/widget-recent-posts.php:86
+#: template-parts/posts/partials/entry-footer-single.php:24
+#: template-parts/posts/partials/entry-footer.php:24
+msgid "<strong>%</strong> Comments"
+msgstr "<strong>%</strong> comentarios"
+
+#: inc/widgets/widget-recent-posts.php:132
+msgid "Number of posts to show:"
+msgstr "Cantidad de entradas a mostrar:"
+
+#: inc/widgets/widget-recent-posts.php:136
+msgid "Show thumbnail"
+msgstr "Mostrar miniaturas"
+
+#: inc/widgets/widget-recent-posts.php:139
+msgid "Show date stamp on thumbnail"
+msgstr "Mostrar la fecha en la miniatura"
+
+#: inc/widgets/widget-recent-posts.php:140
+msgid ""
+"* If a featured image is not set or the \"Show Thumbnail\" option is "
+"disabled, the date stamp will always be displayed."
+msgstr ""
+"* Si no está establecida una imagen destacada o la opción \"Mostrar miniatura"
+"\" se encuentra deshabilitada, la fecha se mostrará siempre."
+
+#: inc/widgets/widget-upsell.php:20
+msgid "Add upsell products to product page"
+msgstr "Agregar productos de venta dirigida a la páginas de productos"
+
+#: inc/widgets/widget-upsell.php:48 inc/widgets/widget-upsell.php:116
+msgid "Complete the look"
+msgstr "Completar la vista"
+
+#: inc/woocommerce/structure-wc-category-page.php:97
+#: inc/woocommerce/structure-wc-product-page-fields.php:93
+msgid "Top Content"
+msgstr "Contenido superior"
+
+#: inc/woocommerce/structure-wc-category-page.php:102
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+"Ingresá el valor para este campo. Se permiten shortcodes. Esto se mostrará "
+"en la parte superior de la categoría."
+
+#: inc/woocommerce/structure-wc-category-page.php:119
+#: inc/woocommerce/structure-wc-product-page-fields.php:103
+msgid "Bottom Content"
+msgstr "Contenido inferior"
+
+#: inc/woocommerce/structure-wc-category-page.php:124
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at bottom of the category."
+msgstr ""
+"Ingresá el valor para este campo. Se permiten shortcodes. Esto se mostrará "
+"en la parte inferior de la categoría."
+
+#: inc/woocommerce/structure-wc-checkout.php:166
+msgid "I have read and agree"
+msgstr "Lo he leído y estoy de acuerdo"
+
+#: inc/woocommerce/structure-wc-global.php:90
+msgid "Shop Sidebar"
+msgstr "Barra lateral de la tienda"
+
+#: inc/woocommerce/structure-wc-global.php:99
+msgid "Product Sidebar"
+msgstr "Barra lateral de producto"
+
+#: inc/woocommerce/structure-wc-global.php:258
+msgid "Posts found"
+msgstr "Entrada encontrada"
+
+#: inc/woocommerce/structure-wc-global.php:271
+msgid "Pages found"
+msgstr "Páginas encontradas"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:11
+msgid "Extra"
+msgstr "Extra"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:18
+msgid "Enable a custom bubble on this product."
+msgstr "Habilitar una burbuja personalizada en este producto."
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:49
+msgid "Custom Tab Content"
+msgstr "Contenido de la pestaña personalizada"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:52
+msgid "Enter content for custom product tab here. Shortcodes are allowed"
+msgstr ""
+"Ingresá el contenido para la pestaña del producto aquí. Se permiten "
+"shortcodes."
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:61
+msgid "Product Video"
+msgstr "Video del producto"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:63
+msgid ""
+"Enter a Youtube or Vimeo Url of the product video here. We recommend "
+"uploading your video to Youtube."
+msgstr ""
+"Ingresá la URL de Youtube o Vimeo de un video del producto. Te recomendamos "
+"subir tu video a Youtube."
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:82
+msgid "Select where you want to display product video."
+msgstr "Elegí adónde querés mostrar el video del producto."
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:96
+msgid ""
+"Enter content that will show after the header and before the product. "
+"Shortcodes are allowed"
+msgstr ""
+"Ingresá el contenido que se mostrará después del encabezado y antes del "
+"producto. Están permitidos los shortcodes."
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:106
+msgid ""
+"Enter content that will show after the product info. Shortcodes are allowed"
+msgstr ""
+"Ingresá el contenido que se mostrará después de la información del producto. "
+"Están permitidos los shortcodes"
+
+#: inc/woocommerce/structure-wc-product-page.php:73
+#: inc/woocommerce/structure-wc-product-page.php:137
+msgid "Video"
+msgstr "Video"
+
+#: inc/woocommerce/structure-wc-product-page.php:104
+msgid "Zoom"
+msgstr "Zoom"
+
+#. Template Name of the theme
+msgid "Page - Full Width - Parallax Title"
+msgstr "Página - Ancho completo - Título Parallax"
+
+#. Template Name of the theme
+msgid "Page - No Header / No Footer"
+msgstr "Página - Sin encabezado / Sin pie de página"
+
+#. Template Name of the theme
+msgid "Page - Vertical Sub-Nav"
+msgstr "Página - Sub-Nav vertical"
+
+#. Template Name of the theme
+msgid "Page - Container - Center Title"
+msgstr "Página - Contenedor - Centrar título"
+
+#. Template Name of the theme
+msgid "Page - Full Width"
+msgstr "Página - Ancho completo"
+
+#. Template Name of the theme
+msgid "WooCommerce - Cart"
+msgstr "WooCommerce - Carrito de compras"
+
+#. Template Name of the theme
+msgid "WooCommerce - Checkout"
+msgstr "WooCommerce - Finalizar compra"
+
+#. Template Name of the theme
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#. Template Name of the theme
+msgid "Page - Full Width - Header on Scroll"
+msgstr "Página - Ancho completo - Encabezado al desplazar"
+
+#. Template Name of the theme
+msgid "Page - Left Sidebar"
+msgstr "Página - Barra lateral izquierda"
+
+#. Template Name of the theme
+msgid "WooCommerce - My Account"
+msgstr "WooCommerce - Mi cuenta"
+
+#. Template Name of the theme
+msgid "Page - Right Sidebar"
+msgstr "Página - Barra lateral derecha"
+
+#. Template Name of the theme
+msgid "Page - Single Page Nav - Transparent Header - Light Text"
+msgstr "Página - Nav de página simple - Encabezado transparente - Texto claro"
+
+#. Template Name of the theme
+msgid "Page - Single Page Nav - Transparent Header"
+msgstr "Página - Nav de página simple - Encabezado transparente"
+
+#. Template Name of the theme
+msgid "Page - Single Page Nav"
+msgstr "Página - Nav de página simple"
+
+#. Template Name of the theme
+msgid "Page - Full Width - Transparent Header - Light Text"
+msgstr "Página - Ancho completo - Encabezado transparente - Texto claro"
+
+#. Template Name of the theme
+msgid "Page - Full Width - Transparent Header"
+msgstr "Página - Ancho completo - Encabezado transparente"
+
+#: searchform.php:17
+msgid "Submit"
+msgstr "Enviar"
+
+#: template-parts/header/partials/element-contact-mobile.php:29
+#: template-parts/header/partials/element-contact.php:24
+msgid "Location"
+msgstr "Ubicación"
+
+#: template-parts/header/partials/element-contact-mobile.php:38
+#: template-parts/header/partials/element-contact.php:43
+msgid "Contact"
+msgstr "Contacto"
+
+#: template-parts/header/partials/element-menu-icon.php:4
+#: template-parts/header/partials/element-menu-icon.php:8
+msgid "Menu"
+msgstr "Menú"
+
+#: template-parts/posts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se encontró"
+
+#: template-parts/posts/content-none.php:20
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Estás listo para publicar tu primera entrada? <a href=\"%1$s\">Empezá aquí</"
+"a>."
+
+#: template-parts/posts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo siento pero nada ha coincidido con los términos de búsqueda que "
+"ingresaste. Por favor intentá de nuevo con distintas palabras clave."
+
+#: template-parts/posts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que estás buscando. Quizás usando la "
+"búsqueda lo podés encontrar."
+
+#. translators: used between list items, there is a space after the comma
+#: template-parts/posts/content-single.php:22
+#: template-parts/posts/content-single.php:25
+#: template-parts/posts/partials/entry-footer-single.php:5
+#: template-parts/posts/partials/entry-footer-single.php:13
+#: template-parts/posts/partials/entry-footer.php:5
+#: template-parts/posts/partials/entry-footer.php:13
+#: template-parts/posts/partials/entry-title.php:2
+msgid ", "
+msgstr ", "
+
+#: template-parts/posts/content-single.php:30
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "Esta entrada fue publicada el %1$s y etiquetada %2$s."
+
+#: template-parts/posts/content-single.php:32
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Esta entrada fue publicada el %1$s. Agregá a favoritos el enlace <a href="
+"\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: template-parts/posts/content.php:6 template-parts/posts/content.php:10
+#: template-parts/posts/featured-posts.php:23
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/posts/loop/post-simple.php:23
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s comentario"
+msgstr[1] "%1$s comentarios"
+
+#: template-parts/posts/partials/archive-title.php:8
+msgid "Category Archives: %s"
+msgstr "Archivos de categorías: %s"
+
+#: template-parts/posts/partials/archive-title.php:11
+msgid "Tag Archives: %s"
+msgstr "Archivos de etiquetas: %s"
+
+#: template-parts/posts/partials/archive-title.php:14
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda de: %s"
+
+#: template-parts/posts/partials/archive-title.php:21
+msgid "Author Archives: %s"
+msgstr "Archivos de autor: %s"
+
+#: template-parts/posts/partials/archive-title.php:29
+msgid "Daily Archives: %s"
+msgstr "Archivos diarios: %s"
+
+#: template-parts/posts/partials/archive-title.php:32
+msgid "Monthly Archives: %s"
+msgstr "Archivos mensuales: %s"
+
+#: template-parts/posts/partials/archive-title.php:35
+msgid "Yearly Archives: %s"
+msgstr "Archivos anuales: %s"
+
+#: template-parts/posts/partials/archive-title.php:38
+msgid "Asides"
+msgstr "Aparte"
+
+#: template-parts/posts/partials/archive-title.php:41
+msgid "Images"
+msgstr "Imágenes"
+
+#: template-parts/posts/partials/archive-title.php:44
+msgid "Videos"
+msgstr "Videos"
+
+#: template-parts/posts/partials/archive-title.php:47
+msgid "Quotes"
+msgstr "Citas"
+
+#: template-parts/posts/partials/archive-title.php:50
+msgid "Links"
+msgstr "Enlaces"
+
+#: template-parts/posts/partials/entry-footer-single.php:8
+#: template-parts/posts/partials/entry-footer.php:8
+msgid "Posted in %1$s"
+msgstr "Publicado el %1$s"
+
+#: template-parts/posts/partials/entry-footer-single.php:18
+#: template-parts/posts/partials/entry-footer.php:18
+msgid "Tagged %1$s"
+msgstr "Etiquetado %1$s"
+
+#: template-parts/posts/partials/entry-footer-single.php:24
+#: template-parts/posts/partials/entry-footer.php:24
+msgid "Leave a comment"
+msgstr "Dejá un comentario"
+
+#: woocommerce/checkout/header-small.php:22 woocommerce/checkout/header.php:22
+msgid "Shopping Cart"
+msgstr "Carrito de compras"
+
+#: woocommerce/checkout/header-small.php:27 woocommerce/checkout/header.php:27
+msgid "Checkout details"
+msgstr "Detalles del pago"
+
+#: woocommerce/checkout/header-small.php:32 woocommerce/checkout/header.php:32
+msgid "Order Complete"
+msgstr "Pedido completo"
+
+#: woocommerce/checkout/social-login.php:8 woocommerce/myaccount/header.php:64
+msgid "Login with <strong>Facebook</strong>"
+msgstr "Iniciar sesión con <strong>Facebook</strong>"
+
+#: woocommerce/checkout/social-login.php:19 woocommerce/myaccount/header.php:74
+msgid "Login with <strong>Google</strong>"
+msgstr "Iniciar sesión con <strong>Google</strong>"

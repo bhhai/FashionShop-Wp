@@ -1,0 +1,122 @@
+# Translation of Plugins - Insert Headers and Footers - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Insert Headers and Footers - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-30 14:38:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Insert Headers and Footers - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "WPBeginner"
+msgstr "WPBeginner"
+
+#. Description of the plugin
+msgid "Allows you to insert code or text in the header or footer of your WordPress blog"
+msgstr "Cho phép bạn chèn code hoặc văn bản vào header hoặc footer của blog WordPress của bạn"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.wpbeginner.com/"
+msgstr "http://www.wpbeginner.com/"
+
+#. Plugin Name of the plugin
+msgid "Insert Headers and Footers"
+msgstr "Insert Headers and Footers"
+
+#: views/settings.php:65
+msgid "Save"
+msgstr "Lưu"
+
+#: views/settings.php:52
+msgid "Scripts in Footer"
+msgstr "Script ở Footer"
+
+#: views/settings.php:28
+msgid "Scripts in Header"
+msgstr "Script ở Header"
+
+#: views/settings.php:2 views/settings.php:23
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: ihaf.php:150
+msgid "Settings Saved."
+msgstr "Đã lưu thiết lập"
+
+#: ihaf.php:141
+msgid "Invalid nonce specified. Settings NOT saved."
+msgstr "Chỉ định nonce không hợp lệ. Không thể lưu thiết lập."
+
+#: ihaf.php:138
+msgid "nonce field is missing. Settings NOT saved."
+msgstr "Field nonce bị lỗi. Không thể lưu thiết lập."
+
+#: views/sidebar.php:9
+msgid "Improve Your Site"
+msgstr "Cải tiến trang web của bạn"
+
+#: views/sidebar.php:95
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#: views/sidebar.php:85
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: views/sidebar.php:75
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: views/sidebar.php:65
+msgid "WPForms"
+msgstr "WPForms"
+
+#: views/sidebar.php:58
+msgid "Like this plugin? Check out our other WordPress plugins:"
+msgstr "Thích plugin? Hãy kiểm tra các plugin WordPress khác của chúng tôi:"
+
+#: views/sidebar.php:54
+msgid "Our WordPress Plugins"
+msgstr "Plugin WordPress của chúng tôi"
+
+#: views/sidebar.php:43
+msgid "Boost Your WordPress SEO"
+msgstr "Cải thiện SEO WordPress"
+
+#: views/sidebar.php:38
+msgid "Improve WordPress Security"
+msgstr "Cải thiện bảo mật WordPress"
+
+#: views/sidebar.php:33
+msgid "Speed Up WordPress"
+msgstr "Tăng tốc WordPress"
+
+#: views/sidebar.php:27
+msgid "Some of our popular guides:"
+msgstr "Một số hướng dẫn phổ biến của chúng tôi:"
+
+#: views/sidebar.php:20
+msgid "WPBeginner blog"
+msgstr "Blog WPBeginner"
+
+#: views/dashboard-notices.php:15
+msgid "Click here"
+msgstr "Bấm vào đây"
+
+#. translators: %s: Name of this plugin
+#: views/dashboard-notices.php:11
+msgid "Thank you for installing %1$s!"
+msgstr "Cảm ơn đã cài đặt %1$s!"
+
+#: views/dashboard-notices.php:15
+msgid "to configure the plugin."
+msgstr "để cấu hình plugin."
+
+#: ihaf.php:122
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Rất tiếc, bạn không được phép truy cập trang này."

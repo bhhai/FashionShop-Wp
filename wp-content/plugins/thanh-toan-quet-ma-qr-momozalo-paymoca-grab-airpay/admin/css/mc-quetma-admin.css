@@ -1,0 +1,13 @@
+.mc-preview-qrcode img{
+width: 200px;
+height: auto;
+margin-top: 10px;
+}
+
+.mc_guide_accordion img{
+max-width: 400px;
+}
+
+.mc_guide_accordion .ui-accordion .ui-accordion-content {
+    min-height: 400px;
+}

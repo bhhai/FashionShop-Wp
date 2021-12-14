@@ -1,0 +1,1165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatsome 3.13\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/flatsome\n"
+"POT-Creation-Date: 2020-12-15T19:29:20+00:00\n"
+"PO-Revision-Date: 2021-01-25 13:16+0100\n"
+"Last-Translator: Grega\n"
+"Language-Team: Slovenščina\n"
+"Language: sl_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Theme Name of the theme
+msgid "Flatsome"
+msgstr "Flatsome"
+
+#. Theme URI of the theme
+msgid "http://flatsome.uxthemes.com/"
+msgstr "http://flatsome.uxthemes.com/"
+
+#. Description of the theme
+msgid "Multi-Purpose Responsive WooCommerce Theme"
+msgstr "Večnamenska odzivna WooCommerce tema"
+
+#. Author of the theme
+msgid "UX-Themes"
+msgstr "UX-Themes"
+
+#. Author URI of the theme
+msgid "http://www.uxthemes.com/"
+msgstr "http://www.uxthemes.com/"
+
+# @ flatsome
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Strani ni mogoče najti."
+
+# @ flatsome
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Izgleda kot, da na tej lokaciji ni nič. Morda želite poskusiti katero "
+"povezavo od spodaj ali iskati naprej?"
+
+# @ flatsome
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s misel na &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s misli na &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s misli na &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s misli na &ldquo;%2$s&rdquo;"
+
+# @ flatsome
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Navigacija med komentarji"
+
+# @ flatsome
+#: comments.php:50
+msgid "Older Comments"
+msgstr "Starejši komentarji"
+
+# @ flatsome
+#: comments.php:51
+msgid "Newer Comments"
+msgstr "Novejši komentarji"
+
+# @ flatsome
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Komentarji so zaprti."
+
+# @ pippin
+#: header.php:18
+msgid "Skip to content"
+msgstr "Skoči na vsebino"
+
+# @ flatsome
+#: image.php:26
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Objavljeno <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> pri <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> v <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+
+# @ flatsome
+#: image.php:38 image.php:108 inc/structure/structure-posts.php:168
+#: inc/structure/structure-posts.php:197
+msgid "Edit"
+msgstr "Uredi"
+
+# @ flatsome
+#: image.php:100
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"komentiraj\">Komentiraj</"
+"a> ali pusti povratno povezavo: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Povratna povezava vaše objave\" rel=\"trackback\">URL povratne "
+"povezave."
+
+# @ flatsome
+#: image.php:102
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Komentarji so zaprti, lahko pa pustite povratno povezavo: <a class="
+"\"trackback-link\" href=\"%s\" title=\"URL povratne povezave\" rel="
+"\"trackback\">URL povratne povezave</a>."
+
+# @ flatsome
+#: image.php:104
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Povratne povezave so zaprte, ampak lahko pustite <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Pustite komentar\">pustite komentar</a>."
+
+# @ flatsome
+#: image.php:106
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Komentarji in povratne povezave so zaprte."
+
+# @ flatsome
+#: image.php:113
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Prejšnji"
+
+# @ flatsome
+#: image.php:114
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Naslednji <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/admin/advanced/functions/functions.facebook.php:138
+msgid "Connect Instagram Business accounts"
+msgstr "Poveži Instagram poslovni račun"
+
+#: inc/admin/advanced/functions/functions.facebook.php:145
+#: inc/admin/advanced/functions/functions.facebook.php:154
+msgid "Okay"
+msgstr "Okej"
+
+#: inc/admin/advanced/functions/functions.facebook.php:150
+msgid ""
+"No associated Instagram Business account was found for your Facebook user."
+msgstr "Z vašim Facebook uporabnikom ni povezan noben Instagram BUSINES račun."
+
+#: inc/admin/advanced/functions/functions.facebook.php:205
+msgid "Cancel"
+msgstr "Prekliči"
+
+#: inc/admin/advanced/functions/functions.facebook.php:208
+msgid "Connect"
+msgstr "Poveži"
+
+# @ default
+#: inc/admin/backend/menu/class-menu.php:91
+msgid "Flatsome menu item options"
+msgstr "Flatsome nastaviteve predmeta v meniju"
+
+#: inc/admin/backend/menu/class-menu.php:95
+msgid "Menu dropdown"
+msgstr "Spustni meni"
+
+#: inc/admin/backend/menu/class-menu.php:98
+msgid "Design"
+msgstr "Oblika"
+
+#: inc/admin/backend/menu/class-menu.php:100
+msgid "Default"
+msgstr "Privzeto"
+
+#: inc/admin/backend/menu/class-menu.php:101
+msgid "Default (custom size)"
+msgstr "Privzeto (velikost po meri)"
+
+#: inc/admin/backend/menu/class-menu.php:102
+msgid "Container width"
+msgstr "Velikost zaboja"
+
+#: inc/admin/backend/menu/class-menu.php:103
+msgid "Full width"
+msgstr "Polna širina"
+
+#: inc/admin/backend/menu/class-menu.php:106
+msgid "Select dropdown design."
+msgstr "Izberi obliko spustnega menija."
+
+#: inc/admin/backend/menu/class-menu.php:110
+#: inc/admin/backend/menu/class-menu.php:161
+msgid "Width"
+msgstr "Širina"
+
+#: inc/admin/backend/menu/class-menu.php:116
+msgid "Height (optional)"
+msgstr "Višina (opcijsko)"
+
+#: inc/admin/backend/menu/class-menu.php:122
+msgid "UX Block"
+msgstr "UX Block"
+
+#: inc/admin/backend/menu/class-menu.php:134
+msgid "Reveal"
+msgstr "Prikaži"
+
+#: inc/admin/backend/menu/class-menu.php:136
+msgid "On hover"
+msgstr "Na prehod (hover)"
+
+#: inc/admin/backend/menu/class-menu.php:137
+msgid "On click"
+msgstr "Na klik"
+
+#: inc/admin/backend/menu/class-menu.php:143
+msgid "Menu icon"
+msgstr "Ikona menija"
+
+#: inc/admin/backend/menu/class-menu.php:146
+msgid "Icon type"
+msgstr "Tip ikone"
+
+#: inc/admin/backend/menu/class-menu.php:148
+msgid "Media library"
+msgstr "Medijska knjižnica"
+
+# @ pippin
+#: inc/admin/backend/menu/class-menu.php:149
+msgid "Custom content"
+msgstr "Vsebina po meri"
+
+#: inc/admin/backend/menu/class-menu.php:165
+msgid "Height"
+msgstr "Višina"
+
+#: inc/admin/backend/menu/class-menu.php:168
+msgid "Icons default (empty) to 20x20."
+msgstr "Privzeto ikona (prazno) na 20x20."
+
+#: inc/admin/backend/menu/class-menu.php:173
+msgid "Markup"
+msgstr "Oznaka (markup)"
+
+#: inc/admin/backend/menu/class-menu.php:176
+msgid "Add any HTML, SVG or shortcode here."
+msgstr "Dodajte HTML, SVG ali shortcode tukaj."
+
+#: inc/admin/gutenberg/class-gutenberg.php:109
+msgid "Edit with UX Builder"
+msgstr "Uredi z UX Builder-jem"
+
+#: inc/admin/options/header/options-header-mobile.php:85
+msgid "Menu item behavior"
+msgstr "Odziv elementa v meniju"
+
+#: inc/admin/options/header/options-header-mobile.php:86
+msgid "Click behavior for menu items with a submenu"
+msgstr "Obnašanje klikov za elemente menija s podmenijem"
+
+#: inc/admin/options/header/options-header-mobile.php:91
+msgid "Open link"
+msgstr "Odpri povezavo"
+
+#: inc/admin/options/header/options-header-mobile.php:92
+msgid "Toggle submenu"
+msgstr "Preklop podmenija"
+
+#: inc/admin/options/header/options-header-mobile.php:99
+msgid "Submenu effect"
+msgstr "Efekt podmenija"
+
+#: inc/admin/options/header/options-header-mobile.php:104
+msgid "Accordion"
+msgstr "Harmonika - Accordion"
+
+#: inc/admin/options/header/options-header-mobile.php:105
+msgid "Slide"
+msgstr "Podrsaj"
+
+#: inc/admin/options/header/options-header-mobile.php:119
+msgid "Submenu levels"
+msgstr "Nivoji podmenijev"
+
+#: inc/admin/options/header/options-header-mobile.php:124
+msgid "1 level"
+msgstr "1 nivo"
+
+#: inc/admin/options/header/options-header-mobile.php:125
+msgid "2 levels"
+msgstr "2 nivoja"
+
+#: inc/admin/options/notifications/options-notifications.php:98
+#: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:39
+msgid ""
+"This site uses cookies to offer you a better browsing experience. By "
+"browsing this website, you agree to our use of cookies."
+msgstr ""
+"Ta stran uporablja piškotke, da lahko ponudbi boljšo uporabniško izkušnjo. Z "
+"brskanjem po strani, se strinjate z njihovo uporabo."
+
+#: inc/admin/options/portfolio/options-portfolio.php:76
+msgid "Show share icons"
+msgstr "Pokaži ikone za deljenje"
+
+#: inc/admin/options/shop/options-shop-cart-checkout.php:46
+msgid "Boxed Shipping labels"
+msgstr "Prikaz načinov pošiljanja v kvadratih"
+
+#: inc/admin/options/shop/options-shop-cart-checkout.php:54
+msgid "Show shipping estimate destination"
+msgstr "Prikaži ocenjeno destinacijo dostavljanja"
+
+#: inc/admin/options/shop/options-shop-product-page.php:40
+#: inc/woocommerce/structure-wc-category-page.php:141
+#: inc/woocommerce/structure-wc-product-page-fields.php:22
+msgid "Custom product layout"
+msgstr "Prikaz izdelka (layout) po meri"
+
+#: inc/classes/class-flatsome-envato-admin.php:174
+msgid "You must confirm the Envato License Terms."
+msgstr "Sprejeti morate Envato licenčne pogoje."
+
+#. translators: 1: Create token URL
+#: inc/classes/class-flatsome-envato-admin.php:180
+msgid ""
+"The provided value seems to be a purchase code. An Envato token is required "
+"to register. <a href=\"%s\" target=\"_blank\">Generate a token here</a>."
+msgstr ""
+"Vpisano izgleda kot koda nakupa. Envato žeton (token) je potreben za "
+"registracijo. <a href=\"%s\" target=\"_blank\">Generirajte svoj žeton tukaj</"
+"a>."
+
+#: inc/classes/class-flatsome-envato-api.php:106
+msgid "An API token is required."
+msgstr "API ključ je potreben."
+
+#: inc/classes/class-flatsome-envato-api.php:131
+#: inc/classes/class-flatsome-envato-api.php:135
+msgid "An unknown API error occurred."
+msgstr "Neznana API napaka."
+
+#. translators: 1: Create token URL
+#: inc/classes/class-flatsome-envato-api.php:158
+msgid ""
+"Missing or invalid token. Double-check your token or try to <a href=\"%s\" "
+"target=\"_blank\">create a new one</a>."
+msgstr ""
+"Pogrešan ali napačen žeton. Še enkrat preverite vaš žeton, ali poskusite <a "
+"href=\"%s\" target=\"_blank\">ustvariti novega</a>."
+
+#. translators: 1: Permissions list.
+#: inc/classes/class-flatsome-envato-api.php:178
+msgid "The token is missing the following permissions: %s"
+msgstr "Ključu manjkajo naslednja dovoljenja: %s"
+
+#: inc/classes/class-flatsome-envato-api.php:219
+msgid ""
+"The token is valid, but the Envato user associated with it doesn't seem to "
+"have purchased Flatsome. Double-check that you were logged in with the same "
+"user that bought Flatsome when you created the token."
+msgstr ""
+"Žeton je veljaven, ampak izgleda, da Envato uporabnik povezan z njim, ni "
+"kupil teme Flatsome. Prosimo še enkrat preverite, da ste nakup Flatsome teme "
+"opravili z istim uporabnikom, kot ste izdelali ta žeton."
+
+#: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:50
+msgctxt "cookie notice"
+msgid "More info"
+msgstr "Več o piškotkih"
+
+#: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:60
+msgctxt "cookie notice"
+msgid "Accept"
+msgstr "Sprejmem"
+
+# @ flatsome
+#: inc/extensions/flatsome-infinite-scroll/templates/button.php:2
+msgid "View more"
+msgstr "Več"
+
+# @ flatsome
+#: inc/extensions/flatsome-live-search/flatsome-live-search.php:198
+msgid "No matches found"
+msgstr "Nič najdenega"
+
+# @ flatsome
+#: inc/extensions/flatsome-wc-quick-view/flatsome-quick-view.php:15
+msgid "Quick View"
+msgstr "Hitri pogled"
+
+# @ flatsome
+#: inc/functions/function-custom-css.php:655
+#: inc/woocommerce/structure-wc-product-box.php:29
+msgid "New"
+msgstr "Nov"
+
+# @ flatsome
+#: inc/functions/function-custom-css.php:656
+msgid "Hot"
+msgstr "Vroče"
+
+# @ flatsome
+#: inc/functions/function-custom-css.php:657
+msgid "Sale"
+msgstr "Akcija"
+
+# @ flatsome
+#: inc/functions/function-custom-css.php:658
+msgid "Popular"
+msgstr "Popularno"
+
+# @ flatsome
+#: inc/functions/function-setup.php:60 inc/functions/function-setup.php:182
+msgid "Main Menu"
+msgstr "Glavni meni"
+
+# @ flatsome
+#: inc/functions/function-setup.php:61
+msgid "Main Menu - Mobile"
+msgstr "Glavni meni - mobilno"
+
+# @ flatsome
+#: inc/functions/function-setup.php:62
+msgid "Footer Menu"
+msgstr "Meni v nogi"
+
+# @ flatsome
+#: inc/functions/function-setup.php:63
+msgid "Top Bar Menu"
+msgstr "Top bar meni"
+
+# @ flatsome
+#: inc/functions/function-setup.php:64
+msgid "My Account Menu"
+msgstr "Meni Moj račun"
+
+# @ flatsome
+#: inc/functions/function-setup.php:84
+msgid "Sidebar"
+msgstr "Stranska vrstica"
+
+# @ flatsome
+#: inc/functions/function-setup.php:94
+msgid "Footer 1"
+msgstr "Noga 1"
+
+# @ flatsome
+#: inc/functions/function-setup.php:104
+msgid "Footer 2"
+msgstr "Noga 2"
+
+#: inc/functions/function-update.php:254
+msgid ""
+"<a href=\"%s\">Please enter your Envato token</a> to activate Flatsome and "
+"get one-click updates."
+msgstr ""
+"<a href=\"%s\">Prosimo vnesite vaš Envato žeton</a> za aktivacijo Flatsome "
+"teme in dostopa do posodobitev z enim klikom."
+
+#: inc/integrations/wc-yith-wishlist/yith-wishlist.php:61
+#: inc/integrations/wc-yith-wishlist/yith-wishlist.php:82
+msgid "Wishlist"
+msgstr "Seznam želja"
+
+#. translators: %s: comment count
+#: inc/shortcodes/blog_posts.php:281
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s komentar"
+msgstr[1] "%s komentarja"
+msgstr[2] "%s komentarji"
+msgstr[3] "%s komentarjev"
+
+# @ flatsome
+#: inc/shortcodes/portfolio.php:143 woocommerce/product-searchform.php:38
+msgid "All"
+msgstr "Vse"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:77
+msgid "Share on WhatsApp"
+msgstr "Deli na WhatsApp"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:79
+msgid "Share on Facebook"
+msgstr "Deli na Facebook-u"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:81
+msgid "Share on Twitter"
+msgstr "Deli na Twitter-ji"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:83
+msgid "Email to a Friend"
+msgstr "Pošlji eMail prijatelju"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:85
+msgid "Pin on Pinterest"
+msgstr "Pripni na Pinterest"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:87
+msgid "Share on VKontakte"
+msgstr "Deli na VKontakte"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:89
+msgid "Share on LinkedIn"
+msgstr "Deli na LinkedIn"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:91
+msgid "Share on Tumblr"
+msgstr "Deli na Thumblr-ju"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:177
+msgid "Follow on Facebook"
+msgstr "Sledi na Facebook"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:181
+msgid "Follow on Instagram"
+msgstr "Sledi nam na Instagramu"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:185
+msgid "Follow on TikTok"
+msgstr "Sledi na TikTok"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:189
+msgid "Follow on SnapChat"
+msgstr "Sladi na SnapChat-u"
+
+#: inc/shortcodes/share_follow.php:194
+msgid "Point the SnapChat camera at this to add us to SnapChat."
+msgstr "Usmeri SnapChat kamero v to, da nas dodat v svoj SnapChat."
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:199
+msgid "Follow on Twitter"
+msgstr "Sledi na Twitter"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:203
+msgid "Send us an email"
+msgstr "Pošlji nam eMail"
+
+#: inc/shortcodes/share_follow.php:207
+msgid "Call us"
+msgstr "Pokliči nas"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:211
+msgid "Follow on Pinterest"
+msgstr "Sledi na Pinterest"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:215
+msgid "Subscribe to RSS"
+msgstr "Prijavi se na RSS"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:218
+msgid "Follow on LinkedIn"
+msgstr "Sledi na LinkedIn"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:221
+msgid "Follow on YouTube"
+msgstr "Sledi na YouTube"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:225
+msgid "Flickr"
+msgstr "Flickr"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:229
+msgid "Follow on 500px"
+msgstr "Sladi na 500px"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:233
+msgid "Follow on VKontakte"
+msgstr "Sledi na VKontakte"
+
+# @ flatsome
+#: inc/structure/structure-portfolio.php:50
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Domov"
+
+# @ flatsome
+#: inc/structure/structure-posts.php:139
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span> Starejše objave"
+
+# @ flatsome
+#: inc/structure/structure-posts.php:144
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "Novejše objave<span class=\"icon-angle-right\"></span>"
+
+# @ flatsome
+#: inc/structure/structure-posts.php:168
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ flatsome
+#: inc/structure/structure-posts.php:184
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">pravi:</span>"
+
+# @ flatsome
+#: inc/structure/structure-posts.php:186
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar čaka na odobritev."
+
+# @ flatsome
+#: inc/structure/structure-posts.php:195
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s ob %2$s"
+
+# @ flatsome
+#: inc/structure/structure-posts.php:235
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Objavljeno %s"
+
+# @ flatsome
+#: inc/structure/structure-posts.php:240
+msgctxt "post author"
+msgid "by %s"
+msgstr "avtor: %s"
+
+#: inc/widgets/widget-blocks.php:17
+msgid "A widget that displays a Block "
+msgstr "Gradnik, ki prikaže UX Block "
+
+#: inc/widgets/widget-blocks.php:21
+msgid "Flatsome Blocks"
+msgstr "Flatsome Blocks"
+
+# @ default
+#: inc/widgets/widget-blocks.php:85 inc/widgets/widget-recent-posts.php:129
+msgid "Title:"
+msgstr "Naslov:"
+
+#: inc/widgets/widget-blocks.php:88
+msgid "Block:"
+msgstr "Block:"
+
+#: inc/widgets/widget-recent-posts.php:18
+msgid "A widget that displays recent posts "
+msgstr "Gradnik, ki prikaže zadnje objave "
+
+# @ flatsome
+#: inc/widgets/widget-recent-posts.php:22
+msgid "Flatsome Recent Posts"
+msgstr "Flatsome Zadnje objave"
+
+# @ flatsome
+#: inc/widgets/widget-recent-posts.php:49
+msgid "Recent Posts"
+msgstr "Zadnje objave"
+
+# @ flatsome
+#: inc/widgets/widget-recent-posts.php:86
+#: template-parts/posts/partials/entry-footer-single.php:24
+#: template-parts/posts/partials/entry-footer.php:24
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1</strong>komentar"
+
+# @ flatsome
+#: inc/widgets/widget-recent-posts.php:86
+#: template-parts/posts/partials/entry-footer-single.php:24
+#: template-parts/posts/partials/entry-footer.php:24
+msgid "<strong>%</strong> Comments"
+msgstr "Št. komentarjev <strong>%</strong>"
+
+# @ flatsome
+#: inc/widgets/widget-recent-posts.php:132
+msgid "Number of posts to show:"
+msgstr "Število prikazanih prispevkov:"
+
+#: inc/widgets/widget-recent-posts.php:136
+msgid "Show thumbnail"
+msgstr "Pokaži sličico"
+
+#: inc/widgets/widget-recent-posts.php:139
+msgid "Show date stamp on thumbnail"
+msgstr "Pokaži datum na sličici"
+
+#: inc/widgets/widget-recent-posts.php:140
+msgid ""
+"* If a featured image is not set or the \"Show Thumbnail\" option is "
+"disabled, the date stamp will always be displayed."
+msgstr ""
+"Če prikazna slika ni nastavljena sli je prikaz sličic (Show Thumbnail) "
+"možnost izklopljena, ikona z datumom bo vedno prikazana.\n"
+"* If a featured image is not set or the \"Show Thumbnail\" option is "
+"disabled, the date stamp will always be displayed."
+
+# @ text_domain
+#: inc/widgets/widget-upsell.php:20
+msgid "Add upsell products to product page"
+msgstr "Dodaj boljši izdelek na stran tega izdelka (upsell)"
+
+# @ text_domain
+# @ flatsome
+#: inc/widgets/widget-upsell.php:48 inc/widgets/widget-upsell.php:116
+msgid "Complete the look"
+msgstr "Dopolni izgled"
+
+# @ pippin
+#: inc/woocommerce/structure-wc-category-page.php:97
+#: inc/woocommerce/structure-wc-product-page-fields.php:31
+msgid "Top Content"
+msgstr "Najboljša vsebina"
+
+# @ pippin
+#: inc/woocommerce/structure-wc-category-page.php:102
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+"Vpišite vrednost tega polja. \"Shortcode\" so dovoljene. To se bo prikazalo "
+"na vrhu kategorije."
+
+# @ pippin
+#: inc/woocommerce/structure-wc-category-page.php:119
+#: inc/woocommerce/structure-wc-product-page-fields.php:38
+msgid "Bottom Content"
+msgstr "Spodnja vsebina"
+
+# @ pippin
+#: inc/woocommerce/structure-wc-category-page.php:124
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at bottom of the category."
+msgstr ""
+"Vpišite vrednost tega polja. \"Shortcode\" so dovoljene. To se bo prikazalo "
+"na dnu kategorije."
+
+#: inc/woocommerce/structure-wc-category-page.php:152
+msgid "Choose a custom product block layout for this category."
+msgstr ""
+"Za prikaz postavitve po meri za to kategorijo izberite UX Block za prikaz."
+
+#: inc/woocommerce/structure-wc-checkout.php:166
+msgid "I have read and agree"
+msgstr "Prebral sem in se strinjam"
+
+# @ flatsome
+#: inc/woocommerce/structure-wc-global.php:90
+msgid "Shop Sidebar"
+msgstr "Stranska vrstica TRGOVINE"
+
+# @ flatsome
+#: inc/woocommerce/structure-wc-global.php:99
+msgid "Product Sidebar"
+msgstr "Stranska vrstica IZDELKA"
+
+# @ flatsome
+#: inc/woocommerce/structure-wc-global.php:258
+msgid "Posts found"
+msgstr "Št. najdenih prispevkov"
+
+# @ flatsome
+#: inc/woocommerce/structure-wc-global.php:271
+msgid "Pages found"
+msgstr "Št. najdenih strani"
+
+# @ flatsome
+#: inc/woocommerce/structure-wc-product-page-fields.php:17
+msgid "Product layout"
+msgstr "Oblika strani izdelka"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:24
+msgid "Choose a custom product block layout for this product."
+msgstr ""
+"Za prikaz postavitve po meri za ta izdelek izberite UX Block za prikaz."
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:33
+msgid ""
+"Enter content that will show after the header and before the product. "
+"Shortcodes are allowed"
+msgstr ""
+"Vpišite vsebino, ki bo prikazana po glavi in pred izdelkom . Dovoljene "
+"uporaba \"shorcodes\""
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:40
+msgid ""
+"Enter content that will show after the product info. Shortcodes are allowed"
+msgstr ""
+"Vpišite vsebino, ki bo prikazana po informacijah o produktu. Dovoljene "
+"uporaba \"shorcodes\""
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:46
+msgid "Extra"
+msgstr "Dodatno"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:52
+msgid "Enable a custom bubble on this product."
+msgstr "Besedilo za oblaček po meri na izdelku."
+
+# @ pippin
+#: inc/woocommerce/structure-wc-product-page-fields.php:82
+msgid "Custom Tab Content"
+msgstr "Vsebina zavihka po meri"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:84
+msgid "Enter content for custom product tab here. Shortcodes are allowed"
+msgstr "Vpišite vsebino, za zavihek po meri. Dovoljene uporaba \"shorcodes\""
+
+# @ flatsome
+#: inc/woocommerce/structure-wc-product-page-fields.php:93
+msgid "Product Video"
+msgstr "Video izdelka"
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:95
+msgid ""
+"Enter a Youtube or Vimeo Url of the product video here. We recommend "
+"uploading your video to Youtube."
+msgstr ""
+"Za video izdelka vnesite Youtube ali Vimeo URL. Zelo priporočamo da video "
+"naložite na YouTube."
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:110
+msgid "Select where you want to display product video."
+msgstr "Kje želite prikazovati video vašega produkta."
+
+# @ flatsome
+#: inc/woocommerce/structure-wc-product-page.php:73
+#: inc/woocommerce/structure-wc-product-page.php:139
+msgid "Video"
+msgstr "Videoposnetek"
+
+# @ flatsome
+#: inc/woocommerce/structure-wc-product-page.php:104
+msgid "Zoom"
+msgstr "Zoom"
+
+#. Template Name of the theme
+msgid "Page - Full Width - Parallax Title"
+msgstr "Stran - Full Width - Parallax Title"
+
+#. Template Name of the theme
+msgid "Page - No Header / No Footer"
+msgstr "Stran - Brez glave / Brez nove"
+
+#. Template Name of the theme
+msgid "Page - Vertical Sub-Nav"
+msgstr "Stran - Vertical Sub-Nav"
+
+#. Template Name of the theme
+msgid "Page - Container - Center Title"
+msgstr "Stran - Container - Center Title"
+
+#. Template Name of the theme
+msgid "Page - Full Width"
+msgstr "Stran - Full Width"
+
+#. Template Name of the theme
+msgid "WooCommerce - Cart"
+msgstr "WooCommerce - Košarica"
+
+#. Template Name of the theme
+msgid "WooCommerce - Checkout"
+msgstr "Woocmmmerce - Blagajna"
+
+#. Template Name of the theme
+msgid "Portfolio"
+msgstr "Reference"
+
+#. Template Name of the theme
+msgid "Page - Full Width - Header on Scroll"
+msgstr "Stran - Full Width - Header on Scroll"
+
+#. Template Name of the theme
+msgid "Page - Left Sidebar"
+msgstr "Stran - Levi sidebar"
+
+#. Template Name of the theme
+msgid "WooCommerce - My Account"
+msgstr "Woocommerce - Moj Račun"
+
+#. Template Name of the theme
+msgid "Page - Right Sidebar"
+msgstr "Stran - Desni sidebar"
+
+#. Template Name of the theme
+msgid "Page - Single Page Nav - Transparent Header - Light Text"
+msgstr "Stran - Single Page Nav - Transparent Header - Light Text"
+
+#. Template Name of the theme
+msgid "Page - Single Page Nav - Transparent Header"
+msgstr "Stran - Single Page Nav - Transparent Header"
+
+#. Template Name of the theme
+msgid "Page - Single Page Nav"
+msgstr "Stran - Single Page Nav"
+
+#. Template Name of the theme
+msgid "Page - Full Width - Transparent Header - Light Text"
+msgstr "Stran - Full Width - Transparent Header - Light text"
+
+#. Template Name of the theme
+msgid "Page - Full Width - Transparent Header"
+msgstr "Stran - Full Width - Transparent Header"
+
+#: searchform.php:17 woocommerce/product-searchform.php:64
+msgid "Submit"
+msgstr "Posreduj"
+
+#. translators: 1. Template
+#: template-parts/admin/envato/directory-warning.php:5
+msgid ""
+"An unusual theme directory name was detected: <em>%s</em>. The Flatsome "
+"parent theme should be installed in a directory named <em>flatsome</em> to "
+"ensure updates are handled correctly."
+msgstr ""
+"Nenavadna mapa za namestitev datoteke je bila zaznana: <em>%s</em>. Flatsome "
+"tema bi morala biti nameščena v mapi poimenovani : <em>flatsome</em>, da "
+"lahko zagotovimo pravilo delovanje posodobitev."
+
+#: template-parts/admin/envato/register-form.php:9
+msgid ""
+"Your token <strong>is valid</strong>. Thank you! Enjoy Flatsome and one-"
+"click updates."
+msgstr ""
+"Vaš ključ je veljaven. HVALA! Uživajte posodobitve Flatsome-a z enim klikom."
+
+#: template-parts/admin/envato/register-form.php:60
+msgid "Are you sure you want to unregister Flatsome?"
+msgstr "Ali ste prepričani, da želite odjaviti Flatsome registracijo?"
+
+#. translators: 1: Version.
+#: template-parts/admin/envato/version-info-iframe.php:7
+msgid "Version %s"
+msgstr "Verzija %s"
+
+#: template-parts/admin/envato/version-info-iframe.php:10
+msgid "Read change log here"
+msgstr "Poglej Channel log"
+
+# @ flatsome
+#: template-parts/header/partials/element-contact-mobile.php:29
+#: template-parts/header/partials/element-contact.php:24
+msgid "Location"
+msgstr "Lokacija"
+
+# @ flatsome
+#: template-parts/header/partials/element-contact-mobile.php:38
+#: template-parts/header/partials/element-contact.php:43
+msgid "Contact"
+msgstr "Kontakt"
+
+# @ flatsome
+#: template-parts/header/partials/element-menu-icon.php:4
+#: template-parts/header/partials/element-menu-icon.php:8
+msgid "Menu"
+msgstr "Glavni meni"
+
+# @ flatsome
+#: template-parts/posts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ničesar nismo našli"
+
+# @ flatsome
+#: template-parts/posts/content-none.php:20
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ste pripravljeni, da objavite svojo prvo objavo?  <a href=\"%1$s\">Začnite "
+"tukaj</a>."
+
+# @ flatsome
+#: template-parts/posts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Oprostite, nič se ne ujema z vašimi iskalnimi pogoji. Prosimo poiskusite "
+"ponovno z drugačnimi ključnimi besedami."
+
+# @ flatsome
+#: template-parts/posts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Izgleda, da ne moremo najti tega kar iščete. Mogoče bo iskalnik v pomoč."
+
+# @ flatsome
+#. translators: used between list items, there is a space after the comma
+#: template-parts/posts/content-single.php:22
+#: template-parts/posts/content-single.php:25
+#: template-parts/posts/partials/entry-footer-single.php:5
+#: template-parts/posts/partials/entry-footer-single.php:13
+#: template-parts/posts/partials/entry-footer.php:5
+#: template-parts/posts/partials/entry-footer.php:13
+#: template-parts/posts/partials/entry-title.php:2
+msgid ", "
+msgstr ", "
+
+# @ flatsome
+#: template-parts/posts/content-single.php:30
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "Ta prispevek je bil objavljen v %1$s in označen s %2$s."
+
+# @ flatsome
+#: template-parts/posts/content-single.php:32
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Ta prispevek je bil objavljen v %1$s. Označi <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">povezavo</a>."
+
+# @ flatsome
+#: template-parts/posts/content.php:6 template-parts/posts/content.php:10
+#: template-parts/posts/featured-posts.php:23
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nadaljuj z branjem <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/posts/loop/post-simple.php:23
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s komentar"
+msgstr[1] "%1$s komentarja"
+msgstr[2] "%1$s komentarji"
+msgstr[3] "%1$s komentarjev"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:8
+msgid "Category Archives: %s"
+msgstr "Arhiv kategorij:  %s"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:11
+msgid "Tag Archives: %s"
+msgstr "Arhiv značk:  %s"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:14
+msgid "Search Results for: %s"
+msgstr "Iskalni rezultati za: %s"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:21
+msgid "Author Archives: %s"
+msgstr "Arhiv avtorja:  %s"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:29
+msgid "Daily Archives: %s"
+msgstr "Dnevni arhiv: %s"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:32
+msgid "Monthly Archives: %s"
+msgstr "Mesečni arhiv: %s"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:35
+msgid "Yearly Archives: %s"
+msgstr "Letni arhiv: %s"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:38
+msgid "Asides"
+msgstr "Dodatki"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:41
+msgid "Images"
+msgstr "Slike"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:44
+msgid "Videos"
+msgstr "Videoposnetki"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:47
+msgid "Quotes"
+msgstr "Citati"
+
+# @ flatsome
+#: template-parts/posts/partials/archive-title.php:50
+msgid "Links"
+msgstr "Povezave"
+
+# @ flatsome
+#: template-parts/posts/partials/entry-footer-single.php:8
+#: template-parts/posts/partials/entry-footer.php:8
+msgid "Posted in %1$s"
+msgstr "Objavljeno v %1$s"
+
+# @ flatsome
+#: template-parts/posts/partials/entry-footer-single.php:18
+#: template-parts/posts/partials/entry-footer.php:18
+msgid "Tagged %1$s"
+msgstr "Označeno s %1$s"
+
+# @ flatsome
+#: template-parts/posts/partials/entry-footer-single.php:24
+#: template-parts/posts/partials/entry-footer.php:24
+msgid "Leave a comment"
+msgstr "Pusti komentar"
+
+# @ flatsome
+#: woocommerce/checkout/header-small.php:22 woocommerce/checkout/header.php:22
+msgid "Shopping Cart"
+msgstr "Košarica"
+
+# @ flatsome
+#: woocommerce/checkout/header-small.php:27 woocommerce/checkout/header.php:27
+msgid "Checkout details"
+msgstr "Podrobnosti naročila"
+
+# @ flatsome
+#: woocommerce/checkout/header-small.php:32 woocommerce/checkout/header.php:32
+msgid "Order Complete"
+msgstr "Naročilo zaključeno"
+
+# @ flatsome
+#: woocommerce/checkout/social-login.php:8 woocommerce/myaccount/header.php:64
+msgid "Login with <strong>Facebook</strong>"
+msgstr "Prijava z <strong>Facebook</strong>"
+
+# @ flatsome
+#: woocommerce/checkout/social-login.php:19 woocommerce/myaccount/header.php:74
+msgid "Login with <strong>Google</strong>"
+msgstr "Prijava z <strong>Google</strong>"
